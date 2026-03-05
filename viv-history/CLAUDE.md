@@ -1,6 +1,6 @@
 # viv-history
 
-Extracts "interesting" citations from Vivaldi browser history and renders them as a filterable, sortable HTML report. Includes synchronized history from all devices.
+Extracts "interesting" citations from Vivaldi browser history and all bookmarks, rendered as a two-tab filterable/sortable HTML report. Includes synchronized history from all devices.
 
 ## Files
 
@@ -21,9 +21,10 @@ The script copies the Vivaldi DB to a temp file before reading, so it works whet
 ### Options
 
 ```
---db PATH      Path to Vivaldi History SQLite file (default: ~/Library/Application Support/Vivaldi/Default/History)
---output PATH  Output HTML file (default: report.html)
---days N       Only include history from the last N days (default: all time)
+--db PATH          Path to Vivaldi History SQLite file (default: ~/Library/Application Support/Vivaldi/Default/History)
+--bookmarks PATH   Path to Vivaldi Bookmarks JSON file (default: ~/Library/Application Support/Vivaldi/Default/Bookmarks)
+--output PATH      Output HTML file (default: report.html)
+--days N           Only include history from the last N days (default: all time)
 ```
 
 ## How it filters
@@ -34,12 +35,20 @@ The script copies the Vivaldi DB to a temp file before reading, so it works whet
 
 ## Report UI features
 
-- **Sort** by Title, Domain, URL, Date, or Visits — click column headers to toggle asc/desc
+The report has two tabs: **History** and **Bookmarks**. Both share the same UI controls.
+
+- **Sort** by Title, Domain, URL, Date, or Visits/Path — click column headers to toggle asc/desc
 - **Quick date filters**: All time / Last month / Last week / Last day
 - **Custom date range** pickers
-- **Text search** across title, URL, and domain
+- **Text search** with live highlighting — matches title, URL, domain, and (bookmarks) path. Escape clears.
 - **Collapsible domain groups**: consecutive same-domain rows (date sort) or all same-domain rows (URL/domain sort) collapse into a group header showing visit count and date range. Groups start collapsed. Expand/Collapse All buttons in toolbar.
 - **Aggregate subdomains** toggle (default: on) — treats `blog.example.com` and `www.example.com` as the same group under `example.com`. Child rows still show the actual subdomain.
+
+### Bookmarks tab specifics
+
+- **Path column** — shows the bookmark folder hierarchy (e.g. `Music › Digital Art`, `Work › Fiuturx`). Top three roots are Music, Home, Work.
+- **Date column** — last visited date from history DB; falls back to bookmark creation date if never visited.
+- No blacklist or interest filter applied — all bookmarks are shown (deduplicated by URL).
 
 ## Blacklist
 
