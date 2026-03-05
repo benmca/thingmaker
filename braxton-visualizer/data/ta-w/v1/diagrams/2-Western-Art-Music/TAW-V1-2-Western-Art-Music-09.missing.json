@@ -1,0 +1,42 @@
+{
+  "diagram": "TAW-V1-2-Western-Art-Music-09",
+  "missing": [
+    {
+      "nodeId": "BIA",
+      "label": "(c)bia.",
+      "expansion": "bi-aitional (or bi-aitionalism)",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "TH-CONT-DYM",
+      "label": "th.cont.dym.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PHY-U-C",
+      "label": "phy.u.c.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PROJ-DY",
+      "label": "proj.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFI-DY",
+      "label": "afi.dy.",
+      "expansion": "affinity insight",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "VT-AF",
+      "label": "vt.af.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "SOC-RT",
+      "label": "soc.rt.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-18",
+  "title": "Trans-African Music \u2013 Diagram 18",
+  "subject": {
+    "nodeId": "PROJ-DY",
+    "arrowFrom": {
+      "x": 55,
+      "y": 165
+    }
+  },
+  "nodes": [
+    {
+      "id": "INDIV-TD",
+      "label": "indiv.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 70,
+      "y": 80,
+      "role": "detail"
+    },
+    {
+      "id": "AFI",
+      "label": "afi.",
+      "fullLabel": "affinity insight",
+      "glossaryCode": "AFI",
+      "x": 215,
+      "y": 60,
+      "role": "detail"
+    },
+    {
+      "id": "TR",
+      "label": "tr.",
+      "fullLabel": "transformation",
+      "glossaryCode": "TR",
+      "x": 290,
+      "y": 50,
+      "role": "detail"
+    },
+    {
+      "id": "IF-SPT-1",
+      "label": "if.spt.(1)",
+      "fullLabel": "infra-spirituality",
+      "glossaryCode": "IF-SPT",
+      "x": 400,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "IF-SPT-2",
+      "label": "if.spt.(2)",
+      "fullLabel": "infra-spirituality",
+      "glossaryCode": "IF-SPT",
+      "x": 520,
+      "y": 130,
+      "role": "detail"
+    },
+    {
+      "id": "HI-P",
+      "label": "hi.p.",
+      "fullLabel": "high purpose",
+      "glossaryCode": "HI-P",
+      "x": 485,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "MTH",
+      "label": "mth.",
+      "fullLabel": "methodology",
+      "glossaryCode": "MTH",
+      "x": 380,
+      "y": 220,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-U-P",
+      "label": "phy.u.p.",
+      "fullLabel": "physical universe particular",
+      "glossaryCode": "PHY-U-P",
+      "x": 305,
+      "y": 270,
+      "role": "detail"
+    },
+    {
+      "id": "POL-P",
+      "label": "pol.p.",
+      "fullLabel": "political policies (or execution of )",
+      "glossaryCode": "POL-P",
+      "x": 230,
+      "y": 165,
+      "role": "detail"
+    },
+    {
+      "id": "PROJ-DY",
+      "label": "(r)proj.dy.",
+      "fullLabel": "projectional dynamics",
+      "glossaryCode": "PROJ-DY",
+      "x": 65,
+      "y": 195,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

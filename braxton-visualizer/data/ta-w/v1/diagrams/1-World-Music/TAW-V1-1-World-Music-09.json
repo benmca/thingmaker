@@ -1,0 +1,122 @@
+{
+  "id": "TAW-V1-1-World-Music-09",
+  "title": "World Music \u2013 Diagram 09",
+  "subject": {
+    "nodeId": "CR-INFO-DY",
+    "arrowFrom": {
+      "x": 15,
+      "y": 135
+    }
+  },
+  "nodes": [
+    {
+      "id": "CR-INFO-DY",
+      "label": "(c)cr.info.dy.",
+      "fullLabel": "",
+      "glossaryCode": "CR-INFO-DY",
+      "x": 60,
+      "y": 145,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT",
+      "label": "soc.rt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 164.5,
+      "y": 43.0,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-INFO-F",
+      "label": "cult.info.f.",
+      "fullLabel": "",
+      "glossaryCode": "CULT-INFO-F",
+      "x": 330,
+      "y": 95,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-TD",
+      "label": "indiv.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 495,
+      "y": 95,
+      "role": "detail"
+    },
+    {
+      "id": "LANG-DY",
+      "label": "lang.dy.",
+      "fullLabel": "",
+      "glossaryCode": "LANG-DY",
+      "x": 530,
+      "y": 205,
+      "role": "detail"
+    },
+    {
+      "id": "TC-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 520,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "LK-IMP",
+      "label": "lk.imp.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 450,
+      "y": 295,
+      "role": "detail"
+    },
+    {
+      "id": "R-INDIV-DY-RT",
+      "label": "(r)indiv.dy.rt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 300,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "R-INTR",
+      "label": "(r)intr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 245,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "C-INFO",
+      "label": "c.info.",
+      "fullLabel": "",
+      "glossaryCode": "C-INFO",
+      "x": 170,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "ASP-ES",
+      "label": "asp.es.",
+      "fullLabel": "",
+      "glossaryCode": "ASP-ES",
+      "x": 120,
+      "y": 250,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "mt.info.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 135,
+      "y": 300,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

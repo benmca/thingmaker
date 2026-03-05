@@ -1,0 +1,41 @@
+{
+  "diagram": "TAW-V1-2-Western-Art-Music-04",
+  "missing": [
+    {
+      "nodeId": "PRI-INFO",
+      "label": "pri.info.",
+      "expansion": "principle information",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "SOC-RT",
+      "label": "soc.rt.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "R-INTR",
+      "label": "(r)intr.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "IST-F",
+      "label": "ist.f.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AF-DY",
+      "label": "af.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AF-TD",
+      "label": "af.td.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MT-INFO",
+      "label": "mt.info.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

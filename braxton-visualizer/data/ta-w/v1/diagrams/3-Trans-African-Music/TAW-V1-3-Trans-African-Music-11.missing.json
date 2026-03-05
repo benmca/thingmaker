@@ -1,0 +1,16 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-11",
+  "missing": [
+    {
+      "nodeId": "POL-P",
+      "label": "pol.p.",
+      "expansion": "political policies (or execution of )",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "INDIV-TP",
+      "label": "indiv.tp.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "diagram": "TAW-V1-4-The-Post-Cage-Continuum-08",
+  "missing": [
+    {
+      "nodeId": "ALT-C-PROG",
+      "label": "(r)alt.c.prog.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "T-C-IMP",
+      "label": "t.c.imp.",
+      "expansion": "time continuum implications",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "MULT-INFO",
+      "label": "mult.info.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INT",
+      "label": "(r)int.",
+      "expansion": "intention (the reality of )",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "EXP-DY",
+      "label": "exp.dy.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-04.jpg
+assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-06.jpg
+assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-02.jpg
+assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-03.jpg
+assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-06.jpg
+assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-10.jpg
+assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-11.jpg
+assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-13.jpg
+assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-02.jpg
+assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-03.jpg
+assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-08.jpg
+assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-10.jpg
+assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-13.jpg
+assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-20.jpg
+assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-02.jpg
+assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-04.jpg
+assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-06.jpg

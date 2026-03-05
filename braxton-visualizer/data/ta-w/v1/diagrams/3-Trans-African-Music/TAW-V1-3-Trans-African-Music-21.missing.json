@@ -1,0 +1,21 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-21",
+  "missing": [
+    {
+      "nodeId": "PRI-INFO",
+      "label": "pri.info.",
+      "expansion": "principle information",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "MT-INFO-DB",
+      "label": "mt.info.db.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "RT-T",
+      "label": "rt.t.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

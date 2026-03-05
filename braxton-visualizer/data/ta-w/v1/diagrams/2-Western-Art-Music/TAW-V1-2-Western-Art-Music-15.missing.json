@@ -1,0 +1,46 @@
+{
+  "diagram": "TAW-V1-2-Western-Art-Music-15",
+  "missing": [
+    {
+      "nodeId": "TH-CONT",
+      "label": "(c)th.cont.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "R-PRO-DY",
+      "label": "(r)pro.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFI",
+      "label": "afi",
+      "expansion": "affinity insight",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "R-ISF-F",
+      "label": "(r)isf.f.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "EXT-F",
+      "label": "ext.f.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INDIV-T",
+      "label": "indiv.t.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INFO-AF-B",
+      "label": "info.af. b.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MT-INFO",
+      "label": "mt.info.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

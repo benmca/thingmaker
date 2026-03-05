@@ -1,0 +1,131 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-06",
+  "title": "Trans-African Music \u2013 Diagram 06",
+  "subject": {
+    "nodeId": "INFO-ALGN",
+    "arrowFrom": {
+      "x": 450,
+      "y": 135
+    }
+  },
+  "nodes": [
+    {
+      "id": "INFO-DY",
+      "label": "info.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 71.0,
+      "y": 100.0,
+      "role": "detail"
+    },
+    {
+      "id": "C-CONT",
+      "label": "c.cont.",
+      "fullLabel": "composite continuance",
+      "glossaryCode": "C-CONT",
+      "x": 220,
+      "y": 75,
+      "role": "detail"
+    },
+    {
+      "id": "OBS",
+      "label": "obs.",
+      "fullLabel": "observation (or reality of )",
+      "glossaryCode": "OBS",
+      "x": 260.0,
+      "y": 106.0,
+      "role": "detail"
+    },
+    {
+      "id": "CRIF-D",
+      "label": "crif.d.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 70,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "RE-ST",
+      "label": "re.st.",
+      "fullLabel": "restructuralism",
+      "glossaryCode": "RE-ST",
+      "x": 85,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "mt.info.",
+      "fullLabel": "multi-information",
+      "glossaryCode": "MT-INFO",
+      "x": 170,
+      "y": 165,
+      "role": "detail"
+    },
+    {
+      "id": "RT-ALGN",
+      "label": "rt.algn.",
+      "fullLabel": "reality alignment",
+      "glossaryCode": "RT-ALGN",
+      "x": 165,
+      "y": 255,
+      "role": "detail"
+    },
+    {
+      "id": "ACC-DY",
+      "label": "acc.dy.",
+      "fullLabel": "accelerated dynamics",
+      "glossaryCode": "ACC-DY",
+      "x": 310,
+      "y": 215,
+      "role": "detail"
+    },
+    {
+      "id": "TRS",
+      "label": "trs.",
+      "fullLabel": "transition",
+      "glossaryCode": "TRS",
+      "x": 367.0,
+      "y": 48.0,
+      "role": "detail"
+    },
+    {
+      "id": "S-ST",
+      "label": "s.st.",
+      "fullLabel": "source shift (progressionalism) manipulation",
+      "glossaryCode": "S-ST",
+      "x": 460,
+      "y": 40,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "time continuum implications",
+      "glossaryCode": "T-C-IMP",
+      "x": 505,
+      "y": 85,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-ALGN",
+      "label": "(c)info.algn.",
+      "fullLabel": "information alignment",
+      "glossaryCode": "INFO-ALGN",
+      "x": 480,
+      "y": 155,
+      "role": "detail"
+    },
+    {
+      "id": "OP-SPD",
+      "label": "op.spd.",
+      "fullLabel": "option spread",
+      "glossaryCode": "OP-SPD",
+      "x": 430,
+      "y": 235,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

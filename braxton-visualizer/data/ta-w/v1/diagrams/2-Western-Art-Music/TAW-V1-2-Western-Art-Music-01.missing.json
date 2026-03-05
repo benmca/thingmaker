@@ -1,0 +1,45 @@
+{
+  "diagram": "TAW-V1-2-Western-Art-Music-01",
+  "missing": [
+    {
+      "nodeId": "DY",
+      "label": "dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "STY",
+      "label": "sty.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MT-IF-DB",
+      "label": "mt. if. db.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "POL-DY",
+      "label": "pol.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "JR-DYM",
+      "label": "jr. dym.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFY-DY",
+      "label": "afy. dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "CUL-DY",
+      "label": "cul. dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PER-VT-U-FUND",
+      "label": "per.vt.u.fund.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

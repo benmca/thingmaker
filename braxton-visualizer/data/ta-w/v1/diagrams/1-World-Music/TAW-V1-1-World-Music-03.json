@@ -1,0 +1,113 @@
+{
+  "id": "TAW-V1-1-World-Music-03",
+  "title": "World Music \u2013 Diagram 03",
+  "subject": {
+    "nodeId": "SCI-DYM",
+    "arrowFrom": {
+      "x": 20,
+      "y": 180
+    }
+  },
+  "nodes": [
+    {
+      "id": "SCI-DYM",
+      "label": "(c)sci.dym",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 70,
+      "y": 175,
+      "role": "detail"
+    },
+    {
+      "id": "METH",
+      "label": "meth.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 210,
+      "y": 190,
+      "role": "detail"
+    },
+    {
+      "id": "C-CONT",
+      "label": "c.cont",
+      "fullLabel": "",
+      "glossaryCode": "C-CONT",
+      "x": 350,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "SPT-DYM",
+      "label": "spt.dym",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 420,
+      "y": 120,
+      "role": "detail"
+    },
+    {
+      "id": "AFI",
+      "label": "afi",
+      "fullLabel": "",
+      "glossaryCode": "AFI",
+      "x": 485,
+      "y": 145,
+      "role": "detail"
+    },
+    {
+      "id": "EXP-DYM",
+      "label": "exp.dym.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 455,
+      "y": 220,
+      "role": "detail"
+    },
+    {
+      "id": "INTR",
+      "label": "intr",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 466.0,
+      "y": 245.0,
+      "role": "detail"
+    },
+    {
+      "id": "TRS",
+      "label": "trs",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 390,
+      "y": 300,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-TD",
+      "label": "indiv.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 320,
+      "y": 315,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-AFB",
+      "label": "info.afb.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 270,
+      "y": 245,
+      "role": "detail"
+    },
+    {
+      "id": "POST",
+      "label": "post",
+      "fullLabel": "",
+      "glossaryCode": "POST",
+      "x": 140,
+      "y": 270,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

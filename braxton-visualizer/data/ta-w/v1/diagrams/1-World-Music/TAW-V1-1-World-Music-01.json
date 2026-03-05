@@ -1,0 +1,122 @@
+{
+  "id": "TAW-V1-1-World-Music-01",
+  "title": "World Music \u2013 Diagram 01",
+  "subject": {
+    "nodeId": "WO-EXP-PRI",
+    "arrowFrom": {
+      "x": 60,
+      "y": 210
+    }
+  },
+  "nodes": [
+    {
+      "id": "WO-EXP-PRI",
+      "label": "(r)wo.exp-pri",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 95,
+      "y": 250,
+      "role": "detail"
+    },
+    {
+      "id": "UNI-PI",
+      "label": "uni-pi",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 180,
+      "y": 140,
+      "role": "detail"
+    },
+    {
+      "id": "TR",
+      "label": "tr",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 270,
+      "y": 110,
+      "role": "detail"
+    },
+    {
+      "id": "AFL",
+      "label": "afl",
+      "fullLabel": "",
+      "glossaryCode": "AFL",
+      "x": 410,
+      "y": 80,
+      "role": "detail"
+    },
+    {
+      "id": "LK-IMP",
+      "label": "lk - imp",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 530,
+      "y": 120,
+      "role": "detail"
+    },
+    {
+      "id": "SPT-DY",
+      "label": "spt-dy",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 540,
+      "y": 190,
+      "role": "detail"
+    },
+    {
+      "id": "PRI-INFO",
+      "label": "pri-info",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 365,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "AFI",
+      "label": "afi",
+      "fullLabel": "",
+      "glossaryCode": "AFI",
+      "x": 520,
+      "y": 240,
+      "role": "detail"
+    },
+    {
+      "id": "RIT-DY",
+      "label": "rit - dy",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 520,
+      "y": 315,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-SOLD",
+      "label": "cult - sold",
+      "fullLabel": "",
+      "glossaryCode": "CULT-SOLD",
+      "x": 405,
+      "y": 330,
+      "role": "detail"
+    },
+    {
+      "id": "AGT",
+      "label": "agt",
+      "fullLabel": "",
+      "glossaryCode": "AGT",
+      "x": 289.0,
+      "y": 319.0,
+      "role": "detail"
+    },
+    {
+      "id": "MOT-DY",
+      "label": "mot - dy",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 245,
+      "y": 320,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

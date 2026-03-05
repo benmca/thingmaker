@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-01",
+  "title": "Trans-African Music \u0013 Diagram 01",
+  "subject": {
+    "nodeId": "AFL-DY",
+    "arrowFrom": {
+      "x": 430,
+      "y": 85
+    }
+  },
+  "nodes": [
+    {
+      "id": "TH-CONT",
+      "label": "(p)th.cont.",
+      "fullLabel": "thrust continuance",
+      "glossaryCode": "TH-CONT",
+      "x": 85,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "time continuum implications",
+      "glossaryCode": "T-C-IMP",
+      "x": 280,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "mt.info.",
+      "fullLabel": "multi-information",
+      "glossaryCode": "MT-INFO",
+      "x": 300,
+      "y": 120,
+      "role": "detail"
+    },
+    {
+      "id": "AFL-DY",
+      "label": "afl.dy.",
+      "fullLabel": "affinity dynamics",
+      "glossaryCode": "AFL-DY",
+      "x": 470,
+      "y": 120,
+      "role": "detail"
+    },
+    {
+      "id": "APP-RDEF",
+      "label": "app.rdef.",
+      "fullLabel": "applied redefinitions",
+      "glossaryCode": "APP-RDEF",
+      "x": 200,
+      "y": 160,
+      "role": "detail"
+    },
+    {
+      "id": "AFI-1",
+      "label": "afi.(1)",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 55,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT",
+      "label": "soc.rt.",
+      "fullLabel": "social reality",
+      "glossaryCode": "SOC-RT",
+      "x": 235,
+      "y": 215,
+      "role": "detail"
+    },
+    {
+      "id": "AFI-2",
+      "label": "afi.(2)",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 310,
+      "y": 190,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-C-PG",
+      "label": "alt.c.pg.",
+      "fullLabel": "alternative composite progressionalism",
+      "glossaryCode": "ALT-C-PG",
+      "x": 460,
+      "y": 205,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-F",
+      "label": "alt.f.",
+      "fullLabel": "alternative functionalism",
+      "glossaryCode": "ALT-F",
+      "x": 320,
+      "y": 265,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

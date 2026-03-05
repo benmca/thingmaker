@@ -1,0 +1,36 @@
+{
+  "diagram": "TAW-V1-2-Western-Art-Music-07",
+  "missing": [
+    {
+      "nodeId": "CULT-INFO-DY",
+      "label": "(c)cult.info.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFI",
+      "label": "afi",
+      "expansion": "affinity insight",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "PR-TRS",
+      "label": "pr.trs.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MT-INFO",
+      "label": "mt.info.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "T-C-IMP",
+      "label": "t.c.imp.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "R-TM",
+      "label": "(r)tm",
+      "issue": "missing_expansion"
+    }
+  ]
+}

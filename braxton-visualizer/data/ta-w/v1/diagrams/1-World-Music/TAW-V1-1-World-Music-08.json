@@ -1,0 +1,131 @@
+{
+  "id": "TAW-V1-1-World-Music-08",
+  "title": "World Music \u2013 Diagram 08",
+  "subject": {
+    "nodeId": "INFO-TRNS",
+    "arrowFrom": {
+      "x": 135,
+      "y": 215
+    }
+  },
+  "nodes": [
+    {
+      "id": "INFO-TRNS",
+      "label": "(c)info.trns",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 210,
+      "y": 245,
+      "role": "detail"
+    },
+    {
+      "id": "EXT-F",
+      "label": "ext.f.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 185,
+      "y": 80,
+      "role": "detail"
+    },
+    {
+      "id": "OP-DY",
+      "label": "op.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 310.0,
+      "y": 25.0,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT",
+      "label": "soc.rt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 390,
+      "y": 90,
+      "role": "detail"
+    },
+    {
+      "id": "TR",
+      "label": "tr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 320,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-AF-B",
+      "label": "cult.af.b.",
+      "fullLabel": "",
+      "glossaryCode": "CULT-AF-BS",
+      "x": 440,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "PAFT",
+      "label": "paft.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 485.0,
+      "y": 245.0,
+      "role": "detail"
+    },
+    {
+      "id": "POL-DY",
+      "label": "pol.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 315,
+      "y": 250,
+      "role": "detail"
+    },
+    {
+      "id": "A-PR",
+      "label": "a.pr.",
+      "fullLabel": "",
+      "glossaryCode": "A-PR",
+      "x": 325,
+      "y": 325,
+      "role": "detail"
+    },
+    {
+      "id": "CI",
+      "label": "ci.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 250,
+      "y": 355,
+      "role": "detail"
+    },
+    {
+      "id": "SPI-AW",
+      "label": "spi.aw.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 175,
+      "y": 315,
+      "role": "detail"
+    },
+    {
+      "id": "MTH",
+      "label": "mth.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 27.0,
+      "y": 248.0,
+      "role": "detail"
+    },
+    {
+      "id": "MT-DI",
+      "label": "mt.di.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 30,
+      "y": 160,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

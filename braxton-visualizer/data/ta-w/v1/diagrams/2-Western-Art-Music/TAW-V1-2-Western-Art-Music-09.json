@@ -1,0 +1,86 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-09",
+  "title": "Western Art Music \u2013 Diagram 09",
+  "subject": {
+    "nodeId": "BIA",
+    "arrowFrom": {
+      "x": 40,
+      "y": 85
+    }
+  },
+  "nodes": [
+    {
+      "id": "BIA",
+      "label": "(c)bia.",
+      "fullLabel": "",
+      "glossaryCode": "BIA",
+      "x": 75,
+      "y": 105,
+      "role": "detail"
+    },
+    {
+      "id": "TH-CONT-DYM",
+      "label": "th.cont.dym.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 260,
+      "y": 85,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-U-C",
+      "label": "phy.u.c.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 350,
+      "y": 100,
+      "role": "detail"
+    },
+    {
+      "id": "PROJ-DY",
+      "label": "proj.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 420,
+      "y": 140,
+      "role": "detail"
+    },
+    {
+      "id": "AFI-DY",
+      "label": "afi.dy.",
+      "fullLabel": "",
+      "glossaryCode": "AFI",
+      "x": 350,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "VT-DY",
+      "label": "vt.dy.",
+      "fullLabel": "",
+      "glossaryCode": "VT-DY",
+      "x": 470,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "VT-AF",
+      "label": "vt.af.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 360,
+      "y": 310,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT",
+      "label": "soc.rt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 250,
+      "y": 270,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

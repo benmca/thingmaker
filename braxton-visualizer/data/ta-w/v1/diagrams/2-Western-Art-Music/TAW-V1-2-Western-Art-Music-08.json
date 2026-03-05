@@ -1,0 +1,95 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-08",
+  "title": "Western Art Music \u2013 Diagram 08",
+  "subject": {
+    "nodeId": "ALT-D",
+    "arrowFrom": {
+      "x": 55,
+      "y": 80
+    }
+  },
+  "nodes": [
+    {
+      "id": "ALT-D",
+      "label": "(r)alt.d.",
+      "fullLabel": "",
+      "glossaryCode": "ALT-D",
+      "x": 110,
+      "y": 100,
+      "role": "detail"
+    },
+    {
+      "id": "AFI",
+      "label": "(c)afi",
+      "fullLabel": "",
+      "glossaryCode": "AFI",
+      "x": 314.0,
+      "y": 93.5,
+      "role": "detail"
+    },
+    {
+      "id": "P-IST-F",
+      "label": "(p)ist.f.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 385,
+      "y": 60,
+      "role": "detail"
+    },
+    {
+      "id": "ATTN",
+      "label": "attn.",
+      "fullLabel": "",
+      "glossaryCode": "ATTN",
+      "x": 503.0,
+      "y": 124.0,
+      "role": "detail"
+    },
+    {
+      "id": "RT-INT",
+      "label": "rt.int.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 525,
+      "y": 175,
+      "role": "detail"
+    },
+    {
+      "id": "TR",
+      "label": "tr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 520,
+      "y": 215,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-AF-B",
+      "label": "info.af.b.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 390,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-C-PG",
+      "label": "alt.c.pg.",
+      "fullLabel": "",
+      "glossaryCode": "ALT-C-PG",
+      "x": 280,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-TD",
+      "label": "indiv.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 300,
+      "y": 265,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

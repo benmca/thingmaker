@@ -1,0 +1,20 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-16",
+  "missing": [
+    {
+      "nodeId": "RT-ALIN",
+      "label": "rt.alin.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "ALT-C",
+      "label": "alt.c.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INFO-DE-B",
+      "label": "info.de.b.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-15",
+  "title": "Trans-African Music \u2013 Diagram 15",
+  "subject": {
+    "nodeId": "C-CONT",
+    "arrowFrom": {
+      "x": 30,
+      "y": 120
+    }
+  },
+  "nodes": [
+    {
+      "id": "C-CONT",
+      "label": "c.cont.",
+      "fullLabel": "composite continuance",
+      "glossaryCode": "C-CONT",
+      "x": 50,
+      "y": 140,
+      "role": "detail"
+    },
+    {
+      "id": "POL-P",
+      "label": "pol.p.",
+      "fullLabel": "political policies (or execution of )",
+      "glossaryCode": "POL-P",
+      "x": 87.0,
+      "y": 70.5,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-U-P",
+      "label": "phy.u.p.",
+      "fullLabel": "physical universe particular",
+      "glossaryCode": "PHY-U-P",
+      "x": 210,
+      "y": 60,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-ACT",
+      "label": "alt.act.",
+      "fullLabel": "alternative activism",
+      "glossaryCode": "ALT-ACT",
+      "x": 230,
+      "y": 105,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-F",
+      "label": "alt.f.",
+      "fullLabel": "alternative functionalism",
+      "glossaryCode": "ALT-F",
+      "x": 165,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-SIGN",
+      "label": "prog.sign.",
+      "fullLabel": "progressional significance",
+      "glossaryCode": "PROG-SIGN",
+      "x": 305,
+      "y": 255,
+      "role": "detail"
+    },
+    {
+      "id": "BIA",
+      "label": "bia.",
+      "fullLabel": "bi-aitional (or bi-aitionalism)",
+      "glossaryCode": "BIA",
+      "x": 325,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-DE",
+      "label": "info.de.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 373.0,
+      "y": 163.0,
+      "role": "detail"
+    },
+    {
+      "id": "AFN",
+      "label": "afn.",
+      "fullLabel": "affinity negation",
+      "glossaryCode": "AFN",
+      "x": 470,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "AF-DY",
+      "label": "af.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 520,
+      "y": 155,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-EXT-F",
+      "label": "prog.ext.f.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 470,
+      "y": 55,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

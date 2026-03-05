@@ -1,0 +1,15 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-12",
+  "missing": [
+    {
+      "nodeId": "EXT-F",
+      "label": "ext.f.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INDIV-TD",
+      "label": "(r)indiv.td.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

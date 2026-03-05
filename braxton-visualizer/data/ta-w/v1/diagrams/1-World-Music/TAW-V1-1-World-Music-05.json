@@ -1,0 +1,95 @@
+{
+  "id": "TAW-V1-1-World-Music-05",
+  "title": "World Music \u2013 Diagram 05",
+  "subject": {
+    "nodeId": "POST",
+    "arrowFrom": {
+      "x": 65,
+      "y": 185
+    }
+  },
+  "nodes": [
+    {
+      "id": "POST",
+      "label": "(c)post",
+      "fullLabel": "",
+      "glossaryCode": "POST",
+      "x": 120,
+      "y": 190,
+      "role": "detail"
+    },
+    {
+      "id": "VT-DY",
+      "label": "vt.dy.",
+      "fullLabel": "",
+      "glossaryCode": "VT-DY",
+      "x": 245,
+      "y": 60,
+      "role": "detail"
+    },
+    {
+      "id": "AF-DY",
+      "label": "af.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 360,
+      "y": 40,
+      "role": "detail"
+    },
+    {
+      "id": "STY",
+      "label": "sty.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 315,
+      "y": 100,
+      "role": "detail"
+    },
+    {
+      "id": "WO-UNF",
+      "label": "wo.unf.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 375,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "",
+      "glossaryCode": "PROG-CONT",
+      "x": 200,
+      "y": 260,
+      "role": "detail"
+    },
+    {
+      "id": "POL-DYM",
+      "label": "pol.dym.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 300,
+      "y": 305,
+      "role": "detail"
+    },
+    {
+      "id": "RIT-DY",
+      "label": "rit.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 385,
+      "y": 300,
+      "role": "detail"
+    },
+    {
+      "id": "TR",
+      "label": "tr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 489.0,
+      "y": 301.0,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

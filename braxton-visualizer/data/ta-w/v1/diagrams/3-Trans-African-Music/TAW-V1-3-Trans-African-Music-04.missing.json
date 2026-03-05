@@ -1,0 +1,10 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-04",
+  "missing": [
+    {
+      "nodeId": "EXT-DY",
+      "label": "ext.dy.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

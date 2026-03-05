@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-15",
+  "title": "Western Art Music \u2013 Diagram 15",
+  "subject": {
+    "nodeId": "TH-CONT",
+    "arrowFrom": {
+      "x": 255,
+      "y": 70
+    }
+  },
+  "nodes": [
+    {
+      "id": "TH-CONT",
+      "label": "(c)th.cont.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 250,
+      "y": 80,
+      "role": "detail"
+    },
+    {
+      "id": "R-PRO-DY",
+      "label": "(r)pro.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 60,
+      "y": 125,
+      "role": "detail"
+    },
+    {
+      "id": "AFI",
+      "label": "afi",
+      "fullLabel": "",
+      "glossaryCode": "AFI",
+      "x": 193.0,
+      "y": 74.0,
+      "role": "detail"
+    },
+    {
+      "id": "R-ISF-F",
+      "label": "(r)isf.f.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 330,
+      "y": 100,
+      "role": "detail"
+    },
+    {
+      "id": "EXT-F",
+      "label": "ext.f.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 430,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "C-FO-ACT",
+      "label": "c.fo.act.",
+      "fullLabel": "",
+      "glossaryCode": "C-FO-ACT",
+      "x": 520,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-T",
+      "label": "indiv.t.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 150,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "AFL-DY",
+      "label": "afl.dy.",
+      "fullLabel": "",
+      "glossaryCode": "AFL-DY",
+      "x": 205,
+      "y": 255,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-AF-B",
+      "label": "info.af. b.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 340,
+      "y": 220,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "mt.info.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 420,
+      "y": 265,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

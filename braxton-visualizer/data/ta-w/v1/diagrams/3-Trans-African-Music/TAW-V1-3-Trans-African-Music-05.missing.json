@@ -1,0 +1,26 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-05",
+  "missing": [
+    {
+      "nodeId": "TF-SH",
+      "label": "(c)tf.sh.",
+      "expansion": "transfer shift(s)",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "RE-DIFF",
+      "label": "re.diff.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "DY",
+      "label": "dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "LANG-DYM",
+      "label": "lang.dym.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

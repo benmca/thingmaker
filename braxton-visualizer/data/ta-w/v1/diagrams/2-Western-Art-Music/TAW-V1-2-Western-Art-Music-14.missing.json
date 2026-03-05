@@ -1,0 +1,55 @@
+{
+  "diagram": "TAW-V1-2-Western-Art-Music-14",
+  "missing": [
+    {
+      "nodeId": "IST-S-ALGN",
+      "label": "(c)ist.s. algn.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MOT-DY",
+      "label": "mot.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INDIV-TD",
+      "label": "indiv.td.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "POL-P",
+      "label": "pol.p.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "R-INTR",
+      "label": "(r)intr.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "SOC-RT",
+      "label": "soc.rt.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MT-INTR",
+      "label": "mt.intr.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "RE-ST",
+      "label": "(p)re.st.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INFO-DY",
+      "label": "info.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PROG-SIGN",
+      "label": "prog. sign.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

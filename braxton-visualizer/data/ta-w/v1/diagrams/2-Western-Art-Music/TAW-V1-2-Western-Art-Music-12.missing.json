@@ -1,0 +1,70 @@
+{
+  "diagram": "TAW-V1-2-Western-Art-Music-12",
+  "missing": [
+    {
+      "nodeId": "EXP-INFO-B",
+      "label": "(c)exp.info. b.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "SOC-RT",
+      "label": "soc.rt.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MTA-RT",
+      "label": "mta.rt.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "SIGN",
+      "label": "sign.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AF-DY",
+      "label": "af. dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MT-INFO-DB",
+      "label": "mt.info. db.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "TF-SH",
+      "label": "(c)tf.sh.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "TC-IMP",
+      "label": "t.c.imp.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "VT-U-PT",
+      "label": "vt.u.pt.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "RE-ST",
+      "label": "re.st.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PR-TR",
+      "label": "pr.tr.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "RT-T",
+      "label": "rt.t.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "R-PART",
+      "label": "(r)part",
+      "issue": "missing_expansion"
+    }
+  ]
+}

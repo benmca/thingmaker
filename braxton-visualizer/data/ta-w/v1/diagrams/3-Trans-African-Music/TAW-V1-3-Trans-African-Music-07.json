@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-07",
+  "title": "Trans-African Music \u2013 Diagram 07",
+  "subject": {
+    "nodeId": "INFO-DOC",
+    "arrowFrom": {
+      "x": 60,
+      "y": 125
+    }
+  },
+  "nodes": [
+    {
+      "id": "INFO-DOC",
+      "label": "(c)info.doc.",
+      "fullLabel": "information documentation",
+      "glossaryCode": "INFO-DOC",
+      "x": 45,
+      "y": 90,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "progressional continuance",
+      "glossaryCode": "PROG-CONT",
+      "x": 140,
+      "y": 35,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "time continuum implications",
+      "glossaryCode": "T-C-IMP",
+      "x": 300,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "AF-DY",
+      "label": "af.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 378.0,
+      "y": 61.0,
+      "role": "detail"
+    },
+    {
+      "id": "ATTN",
+      "label": "(r)attn.",
+      "fullLabel": "attraction",
+      "glossaryCode": "ATTN",
+      "x": 525,
+      "y": 65,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-U-P",
+      "label": "phy.u.p.",
+      "fullLabel": "physical universe particular",
+      "glossaryCode": "PHY-U-P",
+      "x": 376.0,
+      "y": 116.0,
+      "role": "detail"
+    },
+    {
+      "id": "AF-TD",
+      "label": "(c)af.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 500,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "TR-INFO",
+      "label": "tr.info.",
+      "fullLabel": "trans-information",
+      "glossaryCode": "TR-INFO",
+      "x": 245,
+      "y": 155,
+      "role": "detail"
+    },
+    {
+      "id": "TRS",
+      "label": "trs.",
+      "fullLabel": "transition",
+      "glossaryCode": "TRS",
+      "x": 160,
+      "y": 205,
+      "role": "detail"
+    },
+    {
+      "id": "POL-DY",
+      "label": "pol.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 360,
+      "y": 205,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

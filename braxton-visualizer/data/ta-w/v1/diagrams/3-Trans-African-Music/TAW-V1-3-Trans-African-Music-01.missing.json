@@ -1,0 +1,21 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-01",
+  "missing": [
+    {
+      "nodeId": "T-C-IMP",
+      "label": "t.c.imp.",
+      "expansion": "time continuum implications",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "AFI-1",
+      "label": "afi.(1)",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFI-2",
+      "label": "afi.(2)",
+      "issue": "missing_expansion"
+    }
+  ]
+}

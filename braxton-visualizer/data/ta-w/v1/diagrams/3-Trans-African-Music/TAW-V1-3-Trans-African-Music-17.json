@@ -1,0 +1,113 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-17",
+  "title": "Trans-African Music \u2013 Diagram 17",
+  "subject": {
+    "nodeId": "AF-CON",
+    "arrowFrom": {
+      "x": 275,
+      "y": 115
+    }
+  },
+  "nodes": [
+    {
+      "id": "SOC-RT",
+      "label": "soc.rt.",
+      "fullLabel": "social reality",
+      "glossaryCode": "SOC-RT",
+      "x": 36.0,
+      "y": 110.0,
+      "role": "detail"
+    },
+    {
+      "id": "ATTC",
+      "label": "(r)attc.",
+      "fullLabel": "attachment",
+      "glossaryCode": "ATTC",
+      "x": 230,
+      "y": 50,
+      "role": "detail"
+    },
+    {
+      "id": "TR",
+      "label": "tr.",
+      "fullLabel": "transformation",
+      "glossaryCode": "TR",
+      "x": 342.0,
+      "y": 42.0,
+      "role": "detail"
+    },
+    {
+      "id": "WO-EXT-PRIN",
+      "label": "wo.ext.prin.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 515,
+      "y": 50,
+      "role": "detail"
+    },
+    {
+      "id": "TR-INFO",
+      "label": "tr.info.",
+      "fullLabel": "trans-information",
+      "glossaryCode": "TR-INFO",
+      "x": 305,
+      "y": 80,
+      "role": "detail"
+    },
+    {
+      "id": "AF-CON",
+      "label": "(c)af.con.",
+      "fullLabel": "affinity convergence",
+      "glossaryCode": "AF-CON",
+      "x": 300,
+      "y": 120,
+      "role": "detail"
+    },
+    {
+      "id": "POL-DY",
+      "label": "pol.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 520,
+      "y": 165,
+      "role": "detail"
+    },
+    {
+      "id": "C-F-ACT",
+      "label": "c.f.act.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 340,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "ACC-DY",
+      "label": "acc.dy.",
+      "fullLabel": "accelerated dynamics",
+      "glossaryCode": "ACC-DY",
+      "x": 230,
+      "y": 245,
+      "role": "detail"
+    },
+    {
+      "id": "C-CULT-AT",
+      "label": "c.cult.at.",
+      "fullLabel": "composite culture attitude",
+      "glossaryCode": "C-CULT-AT",
+      "x": 100,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "mt.info.",
+      "fullLabel": "multi-information",
+      "glossaryCode": "MT-INFO",
+      "x": 180,
+      "y": 150,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

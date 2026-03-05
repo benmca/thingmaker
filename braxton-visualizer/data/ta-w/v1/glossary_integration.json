@@ -1,0 +1,937 @@
+{
+  "source": "TAW V1 Glossary Integration",
+  "entries": [
+    {
+      "code": "A-PR",
+      "expansion": "all-purpose"
+    },
+    {
+      "code": "ACC-DY",
+      "expansion": "accelerated dynamics"
+    },
+    {
+      "code": "ACC-FT",
+      "expansion": "accelerated functionalism"
+    },
+    {
+      "code": "ACT",
+      "expansion": "activism"
+    },
+    {
+      "code": "ACT-T",
+      "expansion": "actual terms"
+    },
+    {
+      "code": "ACT-TR",
+      "expansion": "actual transformation"
+    },
+    {
+      "code": "AF-COMP",
+      "expansion": "affinity compression"
+    },
+    {
+      "code": "AF-CON",
+      "expansion": "affinity convergence"
+    },
+    {
+      "code": "AF-NT",
+      "expansion": "affinity nature"
+    },
+    {
+      "code": "AF-POST",
+      "expansion": "affinity postulation"
+    },
+    {
+      "code": "AFI",
+      "expansion": "affinity insight"
+    },
+    {
+      "code": "AFI(1)",
+      "expansion": "affinity insight\u2014first degree"
+    },
+    {
+      "code": "AFI(2)",
+      "expansion": "affinity insight\u2014second degree"
+    },
+    {
+      "code": "AFL",
+      "expansion": "affinity alignment"
+    },
+    {
+      "code": "AFL-DT",
+      "expansion": "affinity dictates"
+    },
+    {
+      "code": "AFL-DY",
+      "expansion": "affinity dynamics"
+    },
+    {
+      "code": "AFN",
+      "expansion": "affinity negation"
+    },
+    {
+      "code": "AFTD",
+      "expansion": "affinity tendencies"
+    },
+    {
+      "code": "AFTF",
+      "expansion": "affinity transfer"
+    },
+    {
+      "code": "AGT",
+      "expansion": "agreement"
+    },
+    {
+      "code": "ALT-ACT",
+      "expansion": "alternative activism"
+    },
+    {
+      "code": "ALT-C-PG",
+      "expansion": "alternative composite progressionalism"
+    },
+    {
+      "code": "ALT-D",
+      "expansion": "alternative definitions"
+    },
+    {
+      "code": "ALT-F",
+      "expansion": "alternative functionalism"
+    },
+    {
+      "code": "APL-DT",
+      "expansion": "application dictates"
+    },
+    {
+      "code": "APP-RDEF",
+      "expansion": "applied redefinitions"
+    },
+    {
+      "code": "ASP-ES",
+      "expansion": "aspect essence"
+    },
+    {
+      "code": "ATT",
+      "expansion": "attitude"
+    },
+    {
+      "code": "ATTC",
+      "expansion": "attachment"
+    },
+    {
+      "code": "ATTN",
+      "expansion": "attraction"
+    },
+    {
+      "code": "BIA",
+      "expansion": "bi-aitional (or bi-aitionalism)"
+    },
+    {
+      "code": "BSCF",
+      "expansion": "basic science (or basic scientific functionalism)"
+    },
+    {
+      "code": "C-ACT",
+      "expansion": "composite activism"
+    },
+    {
+      "code": "C-AF-ALGN",
+      "expansion": "composite affinity alignment"
+    },
+    {
+      "code": "C-CONT",
+      "expansion": "composite continuance"
+    },
+    {
+      "code": "C-CULT-AT",
+      "expansion": "composite culture attitude"
+    },
+    {
+      "code": "C-FO-ACT",
+      "expansion": "composite focused activism"
+    },
+    {
+      "code": "C-HM",
+      "expansion": "composite humanity"
+    },
+    {
+      "code": "C-INFO",
+      "expansion": "composite information"
+    },
+    {
+      "code": "C-RH",
+      "expansion": "composite research"
+    },
+    {
+      "code": "CN-INFO",
+      "expansion": "controlled information"
+    },
+    {
+      "code": "COLC-FR-WC",
+      "expansion": "collected forces of western culture"
+    },
+    {
+      "code": "COS-AGN",
+      "expansion": "cosmic assignment"
+    },
+    {
+      "code": "COS-D",
+      "expansion": "cosmic dictates"
+    },
+    {
+      "code": "COS-P",
+      "expansion": "cosmic particulars"
+    },
+    {
+      "code": "CR-INFO-DY",
+      "expansion": "circular information dynamics"
+    },
+    {
+      "code": "CRT",
+      "expansion": "criticism"
+    },
+    {
+      "code": "CRTF-D",
+      "expansion": "cross-transfer definitions"
+    },
+    {
+      "code": "CRTF-PROG",
+      "expansion": "cross-transfer progressionalism"
+    },
+    {
+      "code": "CUL-TF-S",
+      "expansion": "cultural transfer shift(s)"
+    },
+    {
+      "code": "CULT-AF-BS",
+      "expansion": "culture affinity basis"
+    },
+    {
+      "code": "CULT-INFO-B",
+      "expansion": "culture information basis"
+    },
+    {
+      "code": "CULT-INFO-DY",
+      "expansion": "culture information dynamics"
+    },
+    {
+      "code": "CULT-INFO-F",
+      "expansion": "culture information focus"
+    },
+    {
+      "code": "CULT-O",
+      "expansion": "culture order"
+    },
+    {
+      "code": "CULT-SOLD",
+      "expansion": "culture solidification"
+    },
+    {
+      "code": "DE-SPTL",
+      "expansion": "despiritualization (or despiritualism)"
+    },
+    {
+      "code": "DEC",
+      "expansion": "decentralization"
+    },
+    {
+      "code": "DEF",
+      "expansion": "definition"
+    },
+    {
+      "code": "DIS-C-CT",
+      "expansion": "disintegration of a culture\u2019s center"
+    },
+    {
+      "code": "DOC",
+      "expansion": "documentation"
+    },
+    {
+      "code": "DYM-F",
+      "expansion": "dynamic functionalism"
+    },
+    {
+      "code": "DYM-SEP",
+      "expansion": "dynamic separation"
+    },
+    {
+      "code": "DYM-SPT",
+      "expansion": "dynamic spiritualism"
+    },
+    {
+      "code": "ECO-DYM",
+      "expansion": "economic dynamics"
+    },
+    {
+      "code": "EXB-H-OR",
+      "expansion": "establishing high order"
+    },
+    {
+      "code": "EXP-CONT",
+      "expansion": "expansion condition (the concept of )"
+    },
+    {
+      "code": "EXP-CONT(1)",
+      "expansion": "expansion condition (composite focus)"
+    },
+    {
+      "code": "EXP-CONT(2)",
+      "expansion": "expansion condition (isolated focus)"
+    },
+    {
+      "code": "EXP-DT",
+      "expansion": "expansion dictates"
+    },
+    {
+      "code": "EXP-DYM",
+      "expansion": "expansion dynamics"
+    },
+    {
+      "code": "EXP-INFO-B",
+      "expansion": "expansion information basis"
+    },
+    {
+      "code": "EXPM",
+      "expansion": "expansionism"
+    },
+    {
+      "code": "EXT-DYM",
+      "expansion": "extended dynamics"
+    },
+    {
+      "code": "EXT-FT",
+      "expansion": "extended functionalism"
+    },
+    {
+      "code": "EXTN",
+      "expansion": "existentialism"
+    },
+    {
+      "code": "EXTN-D",
+      "expansion": "existential definition"
+    },
+    {
+      "code": "EXTN-OB",
+      "expansion": "existential observation"
+    },
+    {
+      "code": "EXTS",
+      "expansion": "extension (or nature of extension)"
+    },
+    {
+      "code": "FUND-DYN",
+      "expansion": "fundamental dynamics"
+    },
+    {
+      "code": "FUND-P",
+      "expansion": "fundamental particulars"
+    },
+    {
+      "code": "GRAD",
+      "expansion": "gradualism"
+    },
+    {
+      "code": "HI-P",
+      "expansion": "high purpose"
+    },
+    {
+      "code": "IF-SPT",
+      "expansion": "infra-spirituality"
+    },
+    {
+      "code": "IF-ST-DY",
+      "expansion": "infra-structure dynamics"
+    },
+    {
+      "code": "IMPOV",
+      "expansion": "improvisation (the concept of )"
+    },
+    {
+      "code": "INDIV-DY",
+      "expansion": "individual dynamics"
+    },
+    {
+      "code": "INDIV-DY-RT",
+      "expansion": "individual dynamic reality"
+    },
+    {
+      "code": "INFO-AF-B",
+      "expansion": "information affinity basis"
+    },
+    {
+      "code": "INFO-ALGN",
+      "expansion": "information alignment"
+    },
+    {
+      "code": "INFO-COMP",
+      "expansion": "information compression"
+    },
+    {
+      "code": "INFO-CON",
+      "expansion": "information convergence"
+    },
+    {
+      "code": "INFO-DE(B)",
+      "expansion": "information degrees (or information degree basis)"
+    },
+    {
+      "code": "INFO-DOC",
+      "expansion": "information documentation"
+    },
+    {
+      "code": "INFO-DS",
+      "expansion": "information dissemination"
+    },
+    {
+      "code": "INFO-F",
+      "expansion": "information focus"
+    },
+    {
+      "code": "INFO-F-D",
+      "expansion": "information focus distortion"
+    },
+    {
+      "code": "INFO-INTG",
+      "expansion": "information integration"
+    },
+    {
+      "code": "INFO-INTR",
+      "expansion": "information interpretation"
+    },
+    {
+      "code": "INFO-OR",
+      "expansion": "information order"
+    },
+    {
+      "code": "INFO-PROJ",
+      "expansion": "information projection"
+    },
+    {
+      "code": "INFO-RT",
+      "expansion": "information reality"
+    },
+    {
+      "code": "INFO-SOLD",
+      "expansion": "information solidification"
+    },
+    {
+      "code": "INFO-TRNS",
+      "expansion": "information transference"
+    },
+    {
+      "code": "INT",
+      "expansion": "intention (the reality of )"
+    },
+    {
+      "code": "INTL",
+      "expansion": "intellectualism"
+    },
+    {
+      "code": "INTR",
+      "expansion": "interpretation"
+    },
+    {
+      "code": "INVT-DT",
+      "expansion": "investigation dictates"
+    },
+    {
+      "code": "IST-ACT",
+      "expansion": "isolated activism"
+    },
+    {
+      "code": "IST-F",
+      "expansion": "isolated focus"
+    },
+    {
+      "code": "IST-F-AT",
+      "expansion": "isolated focus activism"
+    },
+    {
+      "code": "IST-F-DT",
+      "expansion": "isolated focus dictates"
+    },
+    {
+      "code": "IST-PT",
+      "expansion": "isolated particulars"
+    },
+    {
+      "code": "IST-S-ALGN",
+      "expansion": "isolated systematic alignment"
+    },
+    {
+      "code": "JR-DYM",
+      "expansion": "journalism dynamics"
+    },
+    {
+      "code": "LANG",
+      "expansion": "language"
+    },
+    {
+      "code": "LANG-DY",
+      "expansion": "language dynamics"
+    },
+    {
+      "code": "LG-DISA",
+      "expansion": "logical dissolution"
+    },
+    {
+      "code": "LG-DY",
+      "expansion": "logical dynamics"
+    },
+    {
+      "code": "LG-EXT",
+      "expansion": "logical extension"
+    },
+    {
+      "code": "LK-IMP",
+      "expansion": "linkage implications"
+    },
+    {
+      "code": "MD-DY",
+      "expansion": "media dynamics"
+    },
+    {
+      "code": "MDT-DY",
+      "expansion": "motivation dynamics"
+    },
+    {
+      "code": "MN-DI",
+      "expansion": "mono-dimensional"
+    },
+    {
+      "code": "MPT",
+      "expansion": "manipulation (the reality of )"
+    },
+    {
+      "code": "MT-DEVF",
+      "expansion": "multiple diversification"
+    },
+    {
+      "code": "MT-DI",
+      "expansion": "multi-dimensional (or ISM)"
+    },
+    {
+      "code": "MT-IF-DB",
+      "expansion": "multi-informational degree basis"
+    },
+    {
+      "code": "MT-IMP",
+      "expansion": "multi-implications"
+    },
+    {
+      "code": "MT-INFO",
+      "expansion": "multi-information"
+    },
+    {
+      "code": "MT-INTR",
+      "expansion": "multiple interpretation"
+    },
+    {
+      "code": "MT-TFS-AT",
+      "expansion": "multi-transfer shift activity"
+    },
+    {
+      "code": "MTA-IMP",
+      "expansion": "meta-implications"
+    },
+    {
+      "code": "MTA-RT",
+      "expansion": "meta-reality"
+    },
+    {
+      "code": "MTA-RT-SIGN",
+      "expansion": "meta-reality significance"
+    },
+    {
+      "code": "MTH",
+      "expansion": "methodology"
+    },
+    {
+      "code": "OBS",
+      "expansion": "observation (or reality of )"
+    },
+    {
+      "code": "OP-SPD",
+      "expansion": "option spread"
+    },
+    {
+      "code": "P-FC",
+      "expansion": "particular focus"
+    },
+    {
+      "code": "P-PROG",
+      "expansion": "particular progressionalism"
+    },
+    {
+      "code": "PART",
+      "expansion": "participation"
+    },
+    {
+      "code": "PER-DY",
+      "expansion": "perception dynamics"
+    },
+    {
+      "code": "PER-PHY-U-FUND",
+      "expansion": "perceived physical universe fundamental"
+    },
+    {
+      "code": "PER-TR",
+      "expansion": "perceived transformation"
+    },
+    {
+      "code": "PER-TRS",
+      "expansion": "perceived transition"
+    },
+    {
+      "code": "PER-VT-U-FUND",
+      "expansion": "perceived vibrational universe fundamental"
+    },
+    {
+      "code": "PHY-U-C",
+      "expansion": "physical universe context"
+    },
+    {
+      "code": "PHY-U-FUND",
+      "expansion": "physical universe fundamental"
+    },
+    {
+      "code": "PHY-U-P",
+      "expansion": "physical universe particular"
+    },
+    {
+      "code": "POL-CON",
+      "expansion": "political consciousness"
+    },
+    {
+      "code": "POL-DYM",
+      "expansion": "political dynamics"
+    },
+    {
+      "code": "POL-OR",
+      "expansion": "political order"
+    },
+    {
+      "code": "POL-P",
+      "expansion": "political policies (or execution of )"
+    },
+    {
+      "code": "POL-SIGN",
+      "expansion": "political significance"
+    },
+    {
+      "code": "POL-ST",
+      "expansion": "political state"
+    },
+    {
+      "code": "POST",
+      "expansion": "postulation"
+    },
+    {
+      "code": "PR-INT",
+      "expansion": "primary intention"
+    },
+    {
+      "code": "PRI-AF-TO",
+      "expansion": "primary affinity tendencies"
+    },
+    {
+      "code": "PRI-INFO",
+      "expansion": "principle information"
+    },
+    {
+      "code": "PRI-VT-TD",
+      "expansion": "principle vibrational tendencies"
+    },
+    {
+      "code": "PROG-CONT",
+      "expansion": "progressional continuance"
+    },
+    {
+      "code": "PROG-EXT-FT",
+      "expansion": "progressional extended functionalism"
+    },
+    {
+      "code": "PROG-SIGN",
+      "expansion": "progressional significance"
+    },
+    {
+      "code": "PROG-TF-C",
+      "expansion": "progressional transfer cycles"
+    },
+    {
+      "code": "PROJ",
+      "expansion": "projection"
+    },
+    {
+      "code": "PROJ-CONT",
+      "expansion": "projectional continuance"
+    },
+    {
+      "code": "PROJ-DY",
+      "expansion": "projectional dynamics"
+    },
+    {
+      "code": "RC",
+      "expansion": "race"
+    },
+    {
+      "code": "RE-CONT",
+      "expansion": "recontinuance"
+    },
+    {
+      "code": "RE-DIF",
+      "expansion": "redefinitions"
+    },
+    {
+      "code": "RE-DOC",
+      "expansion": "redocumentation"
+    },
+    {
+      "code": "RE-ST",
+      "expansion": "restructuralism"
+    },
+    {
+      "code": "REL-APC",
+      "expansion": "relevant application"
+    },
+    {
+      "code": "REL-TECH",
+      "expansion": "relevant technology"
+    },
+    {
+      "code": "RES-RT",
+      "expansion": "responsibility ratio"
+    },
+    {
+      "code": "RET-AF-TD",
+      "expansion": "retrograde affinity tendencies"
+    },
+    {
+      "code": "RIT-DY",
+      "expansion": "ritual dynamics"
+    },
+    {
+      "code": "ROTP",
+      "expansion": "responsibility of the position (the concept of )"
+    },
+    {
+      "code": "RT-ALGN",
+      "expansion": "reality alignment"
+    },
+    {
+      "code": "RT-DY",
+      "expansion": "reality dynamics"
+    },
+    {
+      "code": "RT-IMP",
+      "expansion": "reality implications"
+    },
+    {
+      "code": "RT-INT-TR",
+      "expansion": "reality initiative traits"
+    },
+    {
+      "code": "RT-OP",
+      "expansion": "reality options"
+    },
+    {
+      "code": "RTD-PRD",
+      "expansion": "related procedure"
+    },
+    {
+      "code": "S-PROJ",
+      "expansion": "source projection"
+    },
+    {
+      "code": "S-ST",
+      "expansion": "source shift (progressionalism) manipulation"
+    },
+    {
+      "code": "SCI-DYM",
+      "expansion": "scientific dynamics"
+    },
+    {
+      "code": "SF-RZ",
+      "expansion": "self-realization"
+    },
+    {
+      "code": "SI",
+      "expansion": "source initiation"
+    },
+    {
+      "code": "SOC-PR",
+      "expansion": "social programs"
+    },
+    {
+      "code": "SOC-RT",
+      "expansion": "social reality"
+    },
+    {
+      "code": "SOC-RT-DEVF",
+      "expansion": "social reality diversification"
+    },
+    {
+      "code": "SOC-RT-DT",
+      "expansion": "social reality dictates"
+    },
+    {
+      "code": "SOC-RT-DY",
+      "expansion": "social reality dynamics"
+    },
+    {
+      "code": "SOC-RT-INT",
+      "expansion": "social reality interpretation"
+    },
+    {
+      "code": "SOC-RT-P",
+      "expansion": "social reality particular(s)"
+    },
+    {
+      "code": "SPT-AW",
+      "expansion": "spiritual awareness"
+    },
+    {
+      "code": "SPT-DY",
+      "expansion": "spiritual dynamics"
+    },
+    {
+      "code": "SPT-GH",
+      "expansion": "spiritual growth"
+    },
+    {
+      "code": "SPT-UNF",
+      "expansion": "spiritual unification"
+    },
+    {
+      "code": "SPTC-D",
+      "expansion": "spectacle diversion"
+    },
+    {
+      "code": "STF",
+      "expansion": "source transfer"
+    },
+    {
+      "code": "STY",
+      "expansion": "style (or the concept of )"
+    },
+    {
+      "code": "T-C-IMP",
+      "expansion": "time continuum implications"
+    },
+    {
+      "code": "T-L",
+      "expansion": "time lag"
+    },
+    {
+      "code": "T-P",
+      "expansion": "time presence"
+    },
+    {
+      "code": "T-SC",
+      "expansion": "theoretical science"
+    },
+    {
+      "code": "TECH-DY",
+      "expansion": "technological (or technology) dynamics"
+    },
+    {
+      "code": "TF-SH",
+      "expansion": "transfer shift(s)"
+    },
+    {
+      "code": "TH-AF-ALGN",
+      "expansion": "thrust affinity alignment"
+    },
+    {
+      "code": "TH-CONT",
+      "expansion": "thrust continuance"
+    },
+    {
+      "code": "TH-CONT-DY",
+      "expansion": "thrust continuance dynamics"
+    },
+    {
+      "code": "TM",
+      "expansion": "terminology\u2014or terms of a definition"
+    },
+    {
+      "code": "TR",
+      "expansion": "transformation"
+    },
+    {
+      "code": "TR-DEF",
+      "expansion": "trans-definition"
+    },
+    {
+      "code": "TR-INFO",
+      "expansion": "trans-information"
+    },
+    {
+      "code": "TRS",
+      "expansion": "transition"
+    },
+    {
+      "code": "UNF-PI",
+      "expansion": "unification (positively intended)/world unification"
+    },
+    {
+      "code": "UPB",
+      "expansion": "underlying philosophical basis"
+    },
+    {
+      "code": "UTZ",
+      "expansion": "utilization"
+    },
+    {
+      "code": "V-SY",
+      "expansion": "value system"
+    },
+    {
+      "code": "VT-ATT",
+      "expansion": "vibrational attitude"
+    },
+    {
+      "code": "VT-DY",
+      "expansion": "vibrational dynamics"
+    },
+    {
+      "code": "VT-IMP",
+      "expansion": "vibrational implications"
+    },
+    {
+      "code": "VT-PLT",
+      "expansion": "vibrational platform"
+    },
+    {
+      "code": "VT-POST",
+      "expansion": "vibrational postulation"
+    },
+    {
+      "code": "VT-S",
+      "expansion": "vibrational science"
+    },
+    {
+      "code": "VT-TD",
+      "expansion": "vibrational tendencies"
+    },
+    {
+      "code": "VT-U-PT",
+      "expansion": "vibrational universe particulars"
+    },
+    {
+      "code": "WO-CH",
+      "expansion": "world change"
+    },
+    {
+      "code": "WO-EXP-PRI",
+      "expansion": "world expansion principle"
+    },
+    {
+      "code": "WO-MTH",
+      "expansion": "world methodology"
+    },
+    {
+      "code": "WO-UNF",
+      "expansion": "world unification"
+    }
+  ]
+}

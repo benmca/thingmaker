@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-04",
+  "title": "Western Art Music \u2013 Diagram 04",
+  "subject": {
+    "nodeId": "AFL",
+    "arrowFrom": {
+      "x": 55,
+      "y": 45
+    }
+  },
+  "nodes": [
+    {
+      "id": "AFL",
+      "label": "afl.",
+      "fullLabel": "",
+      "glossaryCode": "AFL",
+      "x": 130,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "PRI-INFO",
+      "label": "pri.info.",
+      "fullLabel": "",
+      "glossaryCode": "PRI-INFO",
+      "x": 290,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "ATT",
+      "label": "att.",
+      "fullLabel": "",
+      "glossaryCode": "ATT",
+      "x": 350,
+      "y": 45,
+      "role": "detail"
+    },
+    {
+      "id": "AFN",
+      "label": "afn.",
+      "fullLabel": "",
+      "glossaryCode": "AFN",
+      "x": 430,
+      "y": 100,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT",
+      "label": "soc.rt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 565,
+      "y": 175,
+      "role": "detail"
+    },
+    {
+      "id": "R-INTR",
+      "label": "(r)intr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 520,
+      "y": 285,
+      "role": "detail"
+    },
+    {
+      "id": "IST-F",
+      "label": "ist.f.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 460,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "AF-DY",
+      "label": "af.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 345,
+      "y": 220,
+      "role": "detail"
+    },
+    {
+      "id": "AF-TD",
+      "label": "af.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 260,
+      "y": 280,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "mt.info.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 80,
+      "y": 230,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,122 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-19",
+  "title": "Trans-African Music \u2013 Diagram 19",
+  "subject": {
+    "nodeId": "AF-POST",
+    "arrowFrom": {
+      "x": 35,
+      "y": 135
+    }
+  },
+  "nodes": [
+    {
+      "id": "AF-POST",
+      "label": "af.post.",
+      "fullLabel": "affinity postulation",
+      "glossaryCode": "AF-POST",
+      "x": 60,
+      "y": 155,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-C-PG",
+      "label": "alt.c.pg.",
+      "fullLabel": "alternative composite progressionalism",
+      "glossaryCode": "ALT-C-PG",
+      "x": 150,
+      "y": 45,
+      "role": "detail"
+    },
+    {
+      "id": "AF-CON",
+      "label": "af.con.",
+      "fullLabel": "affinity convergence",
+      "glossaryCode": "AF-CON",
+      "x": 185,
+      "y": 80,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-F",
+      "label": "alt.f.",
+      "fullLabel": "alternative functionalism",
+      "glossaryCode": "ALT-F",
+      "x": 245,
+      "y": 100,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-U-P",
+      "label": "phy.u.p.",
+      "fullLabel": "physical universe particular",
+      "glossaryCode": "PHY-U-P",
+      "x": 350,
+      "y": 40,
+      "role": "detail"
+    },
+    {
+      "id": "POL-DY",
+      "label": "pol.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 410,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "C-CONT",
+      "label": "c.cont.",
+      "fullLabel": "composite continuance",
+      "glossaryCode": "C-CONT",
+      "x": 525,
+      "y": 105,
+      "role": "detail"
+    },
+    {
+      "id": "LK-IMP",
+      "label": "lk.imp.",
+      "fullLabel": "linkage implications",
+      "glossaryCode": "LK-IMP",
+      "x": 360,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "DYM-SPT",
+      "label": "dym.spt.",
+      "fullLabel": "dynamic spiritualism",
+      "glossaryCode": "DYM-SPT",
+      "x": 520,
+      "y": 220,
+      "role": "detail"
+    },
+    {
+      "id": "DYM-F",
+      "label": "dym.f.",
+      "fullLabel": "dynamic functionalism",
+      "glossaryCode": "DYM-F",
+      "x": 240,
+      "y": 270,
+      "role": "detail"
+    },
+    {
+      "id": "VT-S",
+      "label": "vt.s.",
+      "fullLabel": "vibrational science",
+      "glossaryCode": "VT-S",
+      "x": 290,
+      "y": 310,
+      "role": "detail"
+    },
+    {
+      "id": "WO-MTH",
+      "label": "wo.mth.",
+      "fullLabel": "world methodology",
+      "glossaryCode": "WO-MTH",
+      "x": 340,
+      "y": 270,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

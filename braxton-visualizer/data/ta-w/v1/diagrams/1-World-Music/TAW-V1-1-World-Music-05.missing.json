@@ -1,0 +1,35 @@
+{
+  "diagram": "TAW-V1-1-World-Music-05",
+  "missing": [
+    {
+      "nodeId": "AF-DY",
+      "label": "af.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "STY",
+      "label": "sty.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "WO-UNF",
+      "label": "wo.unf.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "POL-DYM",
+      "label": "pol.dym.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "RIT-DY",
+      "label": "rit.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "TR",
+      "label": "tr.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

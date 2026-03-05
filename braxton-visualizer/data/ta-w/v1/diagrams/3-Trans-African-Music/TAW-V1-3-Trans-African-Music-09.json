@@ -1,0 +1,131 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-09",
+  "title": "Trans-African Music \u2013 Diagram 09",
+  "subject": {
+    "nodeId": "LK-IMP",
+    "arrowFrom": {
+      "x": 320,
+      "y": 135
+    }
+  },
+  "nodes": [
+    {
+      "id": "AF-CON",
+      "label": "af.con",
+      "fullLabel": "affinity convergence",
+      "glossaryCode": "AF-CON",
+      "x": 76.0,
+      "y": 100.0,
+      "role": "detail"
+    },
+    {
+      "id": "LANG-DY",
+      "label": "lang.dy.",
+      "fullLabel": "language dynamics",
+      "glossaryCode": "LANG-DY",
+      "x": 170,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "PRI-INFO",
+      "label": "pri.info.",
+      "fullLabel": "principle information",
+      "glossaryCode": "PRI-INFO",
+      "x": 105,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "EXP-DY",
+      "label": "exp.dy",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 25,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INTR",
+      "label": "mt.intr.",
+      "fullLabel": "multiple interpretation",
+      "glossaryCode": "MT-INTR",
+      "x": 190,
+      "y": 265,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-TD",
+      "label": "(r)indiv.td",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 245,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "LK-IMP",
+      "label": "(c)lk.imp.",
+      "fullLabel": "linkage implications",
+      "glossaryCode": "LK-IMP",
+      "x": 310,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "EXPN",
+      "label": "expn.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 350,
+      "y": 35,
+      "role": "detail"
+    },
+    {
+      "id": "AFTF",
+      "label": "aftf.",
+      "fullLabel": "affinity transfer",
+      "glossaryCode": "AFTF",
+      "x": 490,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "LANG-DY",
+      "label": "lang.dy.",
+      "fullLabel": "language dynamics",
+      "glossaryCode": "LANG-DY",
+      "x": 450,
+      "y": 120,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT-DY",
+      "label": "soc.rt.dy.",
+      "fullLabel": "social reality dynamics",
+      "glossaryCode": "SOC-RT-DY",
+      "x": 420,
+      "y": 165,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "time continuum implications",
+      "glossaryCode": "T-C-IMP",
+      "x": 520,
+      "y": 205,
+      "role": "detail"
+    },
+    {
+      "id": "COS-D",
+      "label": "cos.d.",
+      "fullLabel": "cosmic dictates",
+      "glossaryCode": "COS-D",
+      "x": 345,
+      "y": 245,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

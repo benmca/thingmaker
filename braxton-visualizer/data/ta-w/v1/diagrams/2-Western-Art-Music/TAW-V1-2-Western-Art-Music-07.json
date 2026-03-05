@@ -1,0 +1,86 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-07",
+  "title": "Western Art Music \u2013 Diagram 07",
+  "subject": {
+    "nodeId": "CULT-INFO-DY",
+    "arrowFrom": {
+      "x": 25,
+      "y": 110
+    }
+  },
+  "nodes": [
+    {
+      "id": "CULT-INFO-DY",
+      "label": "(c)cult.info.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 85,
+      "y": 110,
+      "role": "detail"
+    },
+    {
+      "id": "CN-INFO",
+      "label": "cn.info.",
+      "fullLabel": "",
+      "glossaryCode": "CN-INFO",
+      "x": 235,
+      "y": 60,
+      "role": "detail"
+    },
+    {
+      "id": "POST",
+      "label": "(c)post",
+      "fullLabel": "",
+      "glossaryCode": "POST",
+      "x": 380,
+      "y": 75,
+      "role": "detail"
+    },
+    {
+      "id": "AFI",
+      "label": "afi",
+      "fullLabel": "",
+      "glossaryCode": "AFI",
+      "x": 520,
+      "y": 105,
+      "role": "detail"
+    },
+    {
+      "id": "PR-TRS",
+      "label": "pr.trs.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 495,
+      "y": 205,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "mt.info.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 260,
+      "y": 190,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 235,
+      "y": 245,
+      "role": "detail"
+    },
+    {
+      "id": "R-TM",
+      "label": "(r)tm",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 70,
+      "y": 200,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

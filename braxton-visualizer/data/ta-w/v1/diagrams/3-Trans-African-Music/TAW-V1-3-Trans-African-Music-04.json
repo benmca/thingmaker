@@ -1,0 +1,95 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-04",
+  "title": "Trans-African Music \u2013 Diagram 04",
+  "subject": {
+    "nodeId": "ATTN",
+    "arrowFrom": {
+      "x": 70,
+      "y": 85
+    }
+  },
+  "nodes": [
+    {
+      "id": "ATTN",
+      "label": "(r)attn.",
+      "fullLabel": "attraction",
+      "glossaryCode": "ATTN",
+      "x": 90,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "DEF",
+      "label": "(r)def.",
+      "fullLabel": "definition",
+      "glossaryCode": "DEF",
+      "x": 300,
+      "y": 35,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-U-P",
+      "label": "phy.u.p.",
+      "fullLabel": "physical universe particular",
+      "glossaryCode": "PHY-U-P",
+      "x": 440,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "C-CONT",
+      "label": "c.cont.",
+      "fullLabel": "composite continuance",
+      "glossaryCode": "C-CONT",
+      "x": 195,
+      "y": 115,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "progressional continuance",
+      "glossaryCode": "PROG-CONT",
+      "x": 145,
+      "y": 155,
+      "role": "detail"
+    },
+    {
+      "id": "PROJ-DY",
+      "label": "proj.dy.",
+      "fullLabel": "projectional dynamics",
+      "glossaryCode": "PROJ-DY",
+      "x": 285,
+      "y": 215,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-AF-B",
+      "label": "info.af.b.",
+      "fullLabel": "information affinity basis",
+      "glossaryCode": "INFO-AF-B",
+      "x": 360,
+      "y": 195,
+      "role": "detail"
+    },
+    {
+      "id": "EXT-DY",
+      "label": "ext.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 460,
+      "y": 135,
+      "role": "detail"
+    },
+    {
+      "id": "PART",
+      "label": "(r)part.",
+      "fullLabel": "participation",
+      "glossaryCode": "PART",
+      "x": 530,
+      "y": 150,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,21 @@
+{
+  "diagram": "TAW-V1-4-The-Post-Cage-Continuum-05",
+  "missing": [
+    {
+      "nodeId": "AF-TD",
+      "label": "(c)af.td.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PRI-INFO",
+      "label": "(n)pri.info.",
+      "expansion": "principle information",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "CUL-INFO-F",
+      "label": "cul.info.f.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

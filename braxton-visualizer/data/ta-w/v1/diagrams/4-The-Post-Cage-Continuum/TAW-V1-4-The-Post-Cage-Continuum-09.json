@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-4-The-Post-Cage-Continuum-09",
+  "title": "The Post-Cage Continuum \u2013 Diagram 09",
+  "subject": {
+    "nodeId": "ALT-F-1",
+    "arrowFrom": {
+      "x": 70,
+      "y": 150
+    }
+  },
+  "nodes": [
+    {
+      "id": "ALT-F-1",
+      "label": "alt.f.(1)",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 95,
+      "y": 175,
+      "role": "detail"
+    },
+    {
+      "id": "C-CONT",
+      "label": "c.cont.",
+      "fullLabel": "composite continuance",
+      "glossaryCode": "C-CONT",
+      "x": 260,
+      "y": 65,
+      "role": "detail"
+    },
+    {
+      "id": "GRAD",
+      "label": "grad.",
+      "fullLabel": "gradualism",
+      "glossaryCode": "GRAD",
+      "x": 150,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-F-2",
+      "label": "alt.f.(2)",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 260,
+      "y": 245,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT-P",
+      "label": "soc.rt.p.",
+      "fullLabel": "social reality particular(s)",
+      "glossaryCode": "SOC-RT-P",
+      "x": 410,
+      "y": 110,
+      "role": "detail"
+    },
+    {
+      "id": "AFL",
+      "label": "afl.",
+      "fullLabel": "affinity alignment",
+      "glossaryCode": "AFL",
+      "x": 506.5,
+      "y": 133.5,
+      "role": "detail"
+    },
+    {
+      "id": "STF",
+      "label": "stf.",
+      "fullLabel": "source transfer",
+      "glossaryCode": "STF",
+      "x": 380,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "POL-P",
+      "label": "pol.p.",
+      "fullLabel": "political policies (or execution of )",
+      "glossaryCode": "POL-P",
+      "x": 455,
+      "y": 275,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-INFO-F",
+      "label": "cult.info.f.",
+      "fullLabel": "culture information focus",
+      "glossaryCode": "CULT-INFO-F",
+      "x": 520,
+      "y": 220,
+      "role": "detail"
+    },
+    {
+      "id": "PART",
+      "label": "(r)part.",
+      "fullLabel": "participation",
+      "glossaryCode": "PART",
+      "x": 560,
+      "y": 175,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

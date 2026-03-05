@@ -1,0 +1,122 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-14",
+  "title": "Western Art Music \u2013 Diagram 14",
+  "subject": {
+    "nodeId": "IST-S-ALGN",
+    "arrowFrom": {
+      "x": 230,
+      "y": 55
+    }
+  },
+  "nodes": [
+    {
+      "id": "IST-S-ALGN",
+      "label": "(c)ist.s. algn.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 240,
+      "y": 85,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-F",
+      "label": "alt.f.",
+      "fullLabel": "",
+      "glossaryCode": "ALT-F",
+      "x": 385.0,
+      "y": 40.0,
+      "role": "detail"
+    },
+    {
+      "id": "MOT-DY",
+      "label": "mot.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 60,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-TD",
+      "label": "indiv.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 60,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "POL-P",
+      "label": "pol.p.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 100,
+      "y": 255,
+      "role": "detail"
+    },
+    {
+      "id": "R-INTR",
+      "label": "(r)intr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 170,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT",
+      "label": "soc.rt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 240,
+      "y": 300,
+      "role": "detail"
+    },
+    {
+      "id": "ACC-DY",
+      "label": "acc.dy.",
+      "fullLabel": "",
+      "glossaryCode": "ACC-DY",
+      "x": 310,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INTR",
+      "label": "mt.intr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 380,
+      "y": 255,
+      "role": "detail"
+    },
+    {
+      "id": "RE-ST",
+      "label": "(p)re.st.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 490,
+      "y": 280,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-DY",
+      "label": "info.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 455,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-SIGN",
+      "label": "prog. sign.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 520,
+      "y": 190,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

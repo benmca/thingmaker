@@ -1,0 +1,131 @@
+{
+  "id": "TAW-V1-1-World-Music-07",
+  "title": "World Music \u2013 Diagram 07",
+  "subject": {
+    "nodeId": "C-CONT",
+    "arrowFrom": {
+      "x": 80,
+      "y": 35
+    }
+  },
+  "nodes": [
+    {
+      "id": "C-CONT",
+      "label": "(c)c.cont.",
+      "fullLabel": "",
+      "glossaryCode": "C-CONT",
+      "x": 120,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "A-PROJ",
+      "label": "a.proj.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 255,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "TR",
+      "label": "tr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 445,
+      "y": 90,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-DS",
+      "label": "info.ds.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 515,
+      "y": 125,
+      "role": "detail"
+    },
+    {
+      "id": "AFN",
+      "label": "afn.",
+      "fullLabel": "",
+      "glossaryCode": "AFN",
+      "x": 505,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "R-ATTN",
+      "label": "(r)attn.",
+      "fullLabel": "",
+      "glossaryCode": "ATTN",
+      "x": 515,
+      "y": 330,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 300,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "POL-P",
+      "label": "pol.p.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 357.0,
+      "y": 196.0,
+      "role": "detail"
+    },
+    {
+      "id": "GRAD",
+      "label": "grad.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 416.5,
+      "y": 263.5,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-UP",
+      "label": "phy.u.p.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 165,
+      "y": 230,
+      "role": "detail"
+    },
+    {
+      "id": "PROJ-DY",
+      "label": "proj.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 120,
+      "y": 315,
+      "role": "detail"
+    },
+    {
+      "id": "C-INFO",
+      "label": "c.info.",
+      "fullLabel": "",
+      "glossaryCode": "C-INFO",
+      "x": 285,
+      "y": 300,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-TF-S",
+      "label": "cult.tf.s.",
+      "fullLabel": "",
+      "glossaryCode": "CULT-TF-S",
+      "x": 265,
+      "y": 350,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

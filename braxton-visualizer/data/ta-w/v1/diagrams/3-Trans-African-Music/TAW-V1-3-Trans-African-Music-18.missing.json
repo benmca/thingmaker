@@ -1,0 +1,22 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-18",
+  "missing": [
+    {
+      "nodeId": "INDIV-TD",
+      "label": "indiv.td.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFI",
+      "label": "afi.",
+      "expansion": "affinity insight",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "POL-P",
+      "label": "pol.p.",
+      "expansion": "political policies (or execution of )",
+      "issue": "missing_definition"
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "volume": "V1",
+  "chapters": [
+    {
+      "title": "Preface & Acknowledgements (second edition)",
+      "slug": "Preface-and-Acknowledgements-second-edition",
+      "items": []
+    },
+    {
+      "title": "Introduction",
+      "slug": "Introduction",
+      "items": [
+        {
+          "file": "TAW-V1-Introduction-01.jpg",
+          "path": "assets/ta-w/v1/Introduction/TAW-V1-Introduction-01.jpg",
+          "base": "TAW-V1-Introduction-01",
+          "label": "01"
+        }
+      ]
+    },
+    {
+      "title": "Glossary Integration",
+      "slug": "Glossary-Integration",
+      "items": []
+    },
+    {
+      "title": "I. Underlying Philosophical Bases",
+      "slug": "I-Underlying-Philosophical-Bases",
+      "items": []
+    },
+    {
+      "title": "A. Level One",
+      "slug": "A-Level-One",
+      "items": [
+        {
+          "file": "TAW-V1-A-Level-One-01.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-01.jpg",
+          "base": "TAW-V1-A-Level-One-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-A-Level-One-02.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-02.jpg",
+          "base": "TAW-V1-A-Level-One-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-A-Level-One-03.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-03.jpg",
+          "base": "TAW-V1-A-Level-One-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-A-Level-One-04.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-04.jpg",
+          "base": "TAW-V1-A-Level-One-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-A-Level-One-05.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-05.jpg",
+          "base": "TAW-V1-A-Level-One-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-A-Level-One-06.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-06.jpg",
+          "base": "TAW-V1-A-Level-One-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-A-Level-One-07.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-07.jpg",
+          "base": "TAW-V1-A-Level-One-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-A-Level-One-08.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-08.jpg",
+          "base": "TAW-V1-A-Level-One-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-A-Level-One-09.jpg",
+          "path": "assets/ta-w/v1/A-Level-One/TAW-V1-A-Level-One-09.jpg",
+          "base": "TAW-V1-A-Level-One-09",
+          "label": "09"
+        }
+      ]
+    },
+    {
+      "title": "1. World Music",
+      "slug": "1-World-Music",
+      "items": [
+        {
+          "file": "TAW-V1-1-World-Music-01.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-01.jpg",
+          "base": "TAW-V1-1-World-Music-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-1-World-Music-02.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-02.jpg",
+          "base": "TAW-V1-1-World-Music-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-1-World-Music-03.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-03.jpg",
+          "base": "TAW-V1-1-World-Music-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-1-World-Music-04.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-04.jpg",
+          "base": "TAW-V1-1-World-Music-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-1-World-Music-05.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-05.jpg",
+          "base": "TAW-V1-1-World-Music-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-1-World-Music-06.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-06.jpg",
+          "base": "TAW-V1-1-World-Music-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-1-World-Music-07.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-07.jpg",
+          "base": "TAW-V1-1-World-Music-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-1-World-Music-08.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-08.jpg",
+          "base": "TAW-V1-1-World-Music-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-1-World-Music-09.jpg",
+          "path": "assets/ta-w/v1/1-World-Music/TAW-V1-1-World-Music-09.jpg",
+          "base": "TAW-V1-1-World-Music-09",
+          "label": "09"
+        }
+      ]
+    },
+    {
+      "title": "2. Western Art Music",
+      "slug": "2-Western-Art-Music",
+      "items": [
+        {
+          "file": "TAW-V1-2-Western-Art-Music-01.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-01.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-02.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-02.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-03.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-03.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-04.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-04.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-05.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-05.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-06.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-06.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-07.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-07.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-08.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-08.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-09.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-09.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-09",
+          "label": "09"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-10.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-10.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-10",
+          "label": "10"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-11.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-11.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-11",
+          "label": "11"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-12.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-12.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-12",
+          "label": "12"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-13.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-13.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-13",
+          "label": "13"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-14.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-14.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-14",
+          "label": "14"
+        },
+        {
+          "file": "TAW-V1-2-Western-Art-Music-15.jpg",
+          "path": "assets/ta-w/v1/2-Western-Art-Music/TAW-V1-2-Western-Art-Music-15.jpg",
+          "base": "TAW-V1-2-Western-Art-Music-15",
+          "label": "15"
+        }
+      ]
+    },
+    {
+      "title": "3. Trans-African Music",
+      "slug": "3-Trans-African-Music",
+      "items": [
+        {
+          "file": "TAW-V1-3-Trans-African-Music-01.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-01.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-02.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-02.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-03.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-03.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-04.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-04.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-05.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-05.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-06.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-06.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-07.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-07.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-08.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-08.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-09.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-09.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-09",
+          "label": "09"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-10.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-10.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-10",
+          "label": "10"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-11.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-11.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-11",
+          "label": "11"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-12.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-12.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-12",
+          "label": "12"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-13.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-13.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-13",
+          "label": "13"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-14.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-14.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-14",
+          "label": "14"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-15.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-15.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-15",
+          "label": "15"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-16.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-16.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-16",
+          "label": "16"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-17.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-17.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-17",
+          "label": "17"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-18.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-18.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-18",
+          "label": "18"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-19.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-19.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-19",
+          "label": "19"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-20.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-20.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-20",
+          "label": "20"
+        },
+        {
+          "file": "TAW-V1-3-Trans-African-Music-21.jpg",
+          "path": "assets/ta-w/v1/3-Trans-African-Music/TAW-V1-3-Trans-African-Music-21.jpg",
+          "base": "TAW-V1-3-Trans-African-Music-21",
+          "label": "21"
+        }
+      ]
+    },
+    {
+      "title": "B. Level Two",
+      "slug": "B-Level-Two",
+      "items": [
+        {
+          "file": "TAW-V1-B-Level-Two-01.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-01.jpg",
+          "base": "TAW-V1-B-Level-Two-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-02.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-02.jpg",
+          "base": "TAW-V1-B-Level-Two-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-03.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-03.jpg",
+          "base": "TAW-V1-B-Level-Two-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-04.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-04.jpg",
+          "base": "TAW-V1-B-Level-Two-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-05.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-05.jpg",
+          "base": "TAW-V1-B-Level-Two-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-06.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-06.jpg",
+          "base": "TAW-V1-B-Level-Two-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-07.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-07.jpg",
+          "base": "TAW-V1-B-Level-Two-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-08.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-08.jpg",
+          "base": "TAW-V1-B-Level-Two-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-09.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-09.jpg",
+          "base": "TAW-V1-B-Level-Two-09",
+          "label": "09"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-10.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-10.jpg",
+          "base": "TAW-V1-B-Level-Two-10",
+          "label": "10"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-11.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-11.jpg",
+          "base": "TAW-V1-B-Level-Two-11",
+          "label": "11"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-12.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-12.jpg",
+          "base": "TAW-V1-B-Level-Two-12",
+          "label": "12"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-13.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-13.jpg",
+          "base": "TAW-V1-B-Level-Two-13",
+          "label": "13"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-14.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-14.jpg",
+          "base": "TAW-V1-B-Level-Two-14",
+          "label": "14"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-15.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-15.jpg",
+          "base": "TAW-V1-B-Level-Two-15",
+          "label": "15"
+        },
+        {
+          "file": "TAW-V1-B-Level-Two-16.jpg",
+          "path": "assets/ta-w/v1/B-Level-Two/TAW-V1-B-Level-Two-16.jpg",
+          "base": "TAW-V1-B-Level-Two-16",
+          "label": "16"
+        }
+      ]
+    },
+    {
+      "title": "C. Level Three: Questions & Answers",
+      "slug": "C-Level-Three-Questions-and-Answers",
+      "items": []
+    },
+    {
+      "title": "II. Transition",
+      "slug": "II-Transition",
+      "items": []
+    },
+    {
+      "title": "1. Western Art Continuance",
+      "slug": "1-Western-Art-Continuance",
+      "items": [
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-01.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-01.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-02.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-02.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-03a.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-03a.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-03a",
+          "label": "03a"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-03b.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-03b.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-03b",
+          "label": "03b"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-04.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-04.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-05a.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-05a.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-05a",
+          "label": "05a"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-05b.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-05b.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-05b",
+          "label": "05b"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-06.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-06.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-07.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-07.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-08.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-08.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-09.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-09.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-09",
+          "label": "09"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-10.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-10.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-10",
+          "label": "10"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-11a.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-11a.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-11a",
+          "label": "11a"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-11b.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-11b.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-11b",
+          "label": "11b"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-11c.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-11c.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-11c",
+          "label": "11c"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-12.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-12.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-12",
+          "label": "12"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-13.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-13.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-13",
+          "label": "13"
+        },
+        {
+          "file": "TAW-V1-1-Western-Art-Continuance-14.jpg",
+          "path": "assets/ta-w/v1/1-Western-Art-Continuance/TAW-V1-1-Western-Art-Continuance-14.jpg",
+          "base": "TAW-V1-1-Western-Art-Continuance-14",
+          "label": "14"
+        }
+      ]
+    },
+    {
+      "title": "2. Creative Music From the Black Aesthetic",
+      "slug": "2-Creative-Music-From-the-Black-Aesthetic",
+      "items": [
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-01.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-01.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-02.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-02.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-03.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-03.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-04.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-04.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-05.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-05.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-06.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-06.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-07.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-07.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-08.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-08.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-09.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-09.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-09",
+          "label": "09"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-10.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-10.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-10",
+          "label": "10"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-11.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-11.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-11",
+          "label": "11"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-12.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-12.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-12",
+          "label": "12"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-13.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-13.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-13",
+          "label": "13"
+        },
+        {
+          "file": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-14.jpg",
+          "path": "assets/ta-w/v1/2-Creative-Music-From-the-Black-Aesthetic/TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-14.jpg",
+          "base": "TAW-V1-2-Creative-Music-From-the-Black-Aesthetic-14",
+          "label": "14"
+        }
+      ]
+    },
+    {
+      "title": "3. The White Improvisor",
+      "slug": "3-The-White-Improvisor",
+      "items": [
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-01.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-01.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-02.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-02.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-03.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-03.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-04.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-04.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-05.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-05.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-06.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-06.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-07.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-07.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-08.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-08.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-09.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-09.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-09",
+          "label": "09"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-10.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-10.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-10",
+          "label": "10"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-11.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-11.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-11",
+          "label": "11"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-12.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-12.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-12",
+          "label": "12"
+        },
+        {
+          "file": "TAW-V1-3-The-White-Improvisor-13.jpg",
+          "path": "assets/ta-w/v1/3-The-White-Improvisor/TAW-V1-3-The-White-Improvisor-13.jpg",
+          "base": "TAW-V1-3-The-White-Improvisor-13",
+          "label": "13"
+        }
+      ]
+    },
+    {
+      "title": "4. The Post-Cage Continuum",
+      "slug": "4-The-Post-Cage-Continuum",
+      "items": [
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-01.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-01.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-02.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-02.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-03.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-03.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-04.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-04.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-05.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-05.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-06.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-06.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-07.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-07.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-08.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-08.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-4-The-Post-Cage-Continuum-09.jpg",
+          "path": "assets/ta-w/v1/4-The-Post-Cage-Continuum/TAW-V1-4-The-Post-Cage-Continuum-09.jpg",
+          "base": "TAW-V1-4-The-Post-Cage-Continuum-09",
+          "label": "09"
+        }
+      ]
+    },
+    {
+      "title": "III. Extended Functionalism",
+      "slug": "III-Extended-Functionalism",
+      "items": []
+    },
+    {
+      "title": "1. The New York Movement",
+      "slug": "1-The-New-York-Movement",
+      "items": [
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-01.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-01.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-02.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-02.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-03.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-03.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-04.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-04.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-05.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-05.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-06.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-06.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-07.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-07.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-08.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-08.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-09a.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-09a.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-09a",
+          "label": "09a"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-09b.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-09b.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-09b",
+          "label": "09b"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-10.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-10.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-10",
+          "label": "10"
+        },
+        {
+          "file": "TAW-V1-1-The-New-York-Movement-11.jpg",
+          "path": "assets/ta-w/v1/1-The-New-York-Movement/TAW-V1-1-The-New-York-Movement-11.jpg",
+          "base": "TAW-V1-1-The-New-York-Movement-11",
+          "label": "11"
+        }
+      ]
+    },
+    {
+      "title": "2. The Midwest (and West Coast) Continuum",
+      "slug": "2-The-Midwest-and-West-Coast-Continuum",
+      "items": [
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-01.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-01.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-01",
+          "label": "01"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-02.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-02.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-02",
+          "label": "02"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-03.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-03.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-03",
+          "label": "03"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-04.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-04.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-04",
+          "label": "04"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-05.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-05.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-05",
+          "label": "05"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-06.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-06.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-06",
+          "label": "06"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-07.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-07.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-07",
+          "label": "07"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-08.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-08.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-08",
+          "label": "08"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-09.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-09.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-09",
+          "label": "09"
+        },
+        {
+          "file": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-10.jpg",
+          "path": "assets/ta-w/v1/2-The-Midwest-and-West-Coast-Continuum/TAW-V1-2-The-Midwest-and-West-Coast-Continuum-10.jpg",
+          "base": "TAW-V1-2-The-Midwest-and-West-Coast-Continuum-10",
+          "label": "10"
+        }
+      ]
+    },
+    {
+      "title": "Glossary",
+      "slug": "Glossary",
+      "items": []
+    }
+  ]
+}

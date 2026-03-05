@@ -1,0 +1,113 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-01",
+  "title": "Western Art Music \u2013 Diagram 01",
+  "subject": {
+    "nodeId": "POST",
+    "arrowFrom": {
+      "x": 135,
+      "y": 160
+    }
+  },
+  "nodes": [
+    {
+      "id": "POST",
+      "label": "(r)post.",
+      "fullLabel": "",
+      "glossaryCode": "POST",
+      "x": 185,
+      "y": 175,
+      "role": "detail"
+    },
+    {
+      "id": "DEF",
+      "label": "def.",
+      "fullLabel": "",
+      "glossaryCode": "DEF",
+      "x": 100,
+      "y": 85,
+      "role": "detail"
+    },
+    {
+      "id": "DY",
+      "label": "dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 70,
+      "y": 230,
+      "role": "detail"
+    },
+    {
+      "id": "STY",
+      "label": "sty.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 175,
+      "y": 320,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "",
+      "glossaryCode": "PROG-CONT",
+      "x": 295,
+      "y": 35,
+      "role": "detail"
+    },
+    {
+      "id": "MT-IF-DB",
+      "label": "mt. if. db.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 440,
+      "y": 45,
+      "role": "detail"
+    },
+    {
+      "id": "POL-DY",
+      "label": "pol.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 498.0,
+      "y": 113.0,
+      "role": "detail"
+    },
+    {
+      "id": "JR-DYM",
+      "label": "jr. dym.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 550,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "AFY-DY",
+      "label": "afy. dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 435,
+      "y": 230,
+      "role": "detail"
+    },
+    {
+      "id": "CUL-DY",
+      "label": "cul. dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 330,
+      "y": 190,
+      "role": "detail"
+    },
+    {
+      "id": "PER-VT-U-FUND",
+      "label": "per.vt.u.fund.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 315,
+      "y": 285,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

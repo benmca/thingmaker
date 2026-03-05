@@ -1,0 +1,22 @@
+{
+  "diagram": "TAW-V1-Introduction-01",
+  "missing": [
+    {
+      "nodeId": "PRI-VT-TD",
+      "label": "pri.vt.td.",
+      "expansion": "principle vibrational tendencies",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "SG",
+      "label": "sg.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFI",
+      "label": "afi.",
+      "expansion": "affinity insight",
+      "issue": "missing_definition"
+    }
+  ]
+}

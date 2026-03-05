@@ -1,0 +1,131 @@
+{
+  "id": "TAW-V1-4-The-Post-Cage-Continuum-07",
+  "title": "The Post-Cage Continuum \u2013 Diagram 07",
+  "subject": {
+    "nodeId": "PROJ",
+    "arrowFrom": {
+      "x": 225,
+      "y": 135
+    }
+  },
+  "nodes": [
+    {
+      "id": "EXT-CON",
+      "label": "ext.con.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 80,
+      "y": 90,
+      "role": "detail"
+    },
+    {
+      "id": "FUND-DY",
+      "label": "fund.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 220,
+      "y": 50,
+      "role": "detail"
+    },
+    {
+      "id": "TRS",
+      "label": "trs.",
+      "fullLabel": "transition",
+      "glossaryCode": "TRS",
+      "x": 330,
+      "y": 65,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "time continuum implications",
+      "glossaryCode": "T-C-IMP",
+      "x": 440,
+      "y": 80,
+      "role": "detail"
+    },
+    {
+      "id": "IF-SPT",
+      "label": "if.spt.",
+      "fullLabel": "infra-spirituality",
+      "glossaryCode": "IF-SPT",
+      "x": 470,
+      "y": 140,
+      "role": "detail"
+    },
+    {
+      "id": "RT-DY",
+      "label": "rt.dy.",
+      "fullLabel": "reality dynamics",
+      "glossaryCode": "RT-DY",
+      "x": 500,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "progressional continuance",
+      "glossaryCode": "PROG-CONT",
+      "x": 540,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "COS-P",
+      "label": "cos.p.",
+      "fullLabel": "cosmic particulars",
+      "glossaryCode": "COS-P",
+      "x": 430,
+      "y": 225,
+      "role": "detail"
+    },
+    {
+      "id": "A-PR",
+      "label": "a.pr.",
+      "fullLabel": "all-purpose",
+      "glossaryCode": "A-PR",
+      "x": 320,
+      "y": 275,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-U-P",
+      "label": "phy.u.p.",
+      "fullLabel": "physical universe particular",
+      "glossaryCode": "PHY-U-P",
+      "x": 315,
+      "y": 315,
+      "role": "detail"
+    },
+    {
+      "id": "VT-DY",
+      "label": "vt.dy.",
+      "fullLabel": "vibrational dynamics",
+      "glossaryCode": "VT-DY",
+      "x": 200,
+      "y": 260,
+      "role": "detail"
+    },
+    {
+      "id": "PROJ",
+      "label": "(r)proj.",
+      "fullLabel": "projection",
+      "glossaryCode": "PROJ",
+      "x": 240,
+      "y": 165,
+      "role": "detail"
+    },
+    {
+      "id": "EXT-DY",
+      "label": "ext.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 120,
+      "y": 185,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,51 @@
+{
+  "diagram": "TAW-V1-1-World-Music-01",
+  "missing": [
+    {
+      "nodeId": "WO-EXP-PRI",
+      "label": "(r)wo.exp-pri",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "UNI-PI",
+      "label": "uni-pi",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "TR",
+      "label": "tr",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "LK-IMP",
+      "label": "lk - imp",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "SPT-DY",
+      "label": "spt-dy",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PRI-INFO",
+      "label": "pri-info",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFI",
+      "label": "afi",
+      "expansion": "affinity insight",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "RIT-DY",
+      "label": "rit - dy",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MOT-DY",
+      "label": "mot - dy",
+      "issue": "missing_expansion"
+    }
+  ]
+}

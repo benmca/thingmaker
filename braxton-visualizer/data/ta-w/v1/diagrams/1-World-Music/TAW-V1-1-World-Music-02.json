@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-1-World-Music-02",
+  "title": "World Music \u2013 Diagram 02",
+  "subject": {
+    "nodeId": "TC-IMP",
+    "arrowFrom": {
+      "x": 245,
+      "y": 155
+    }
+  },
+  "nodes": [
+    {
+      "id": "TC-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 280,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "ACT-TR",
+      "label": "act.tr.",
+      "fullLabel": "",
+      "glossaryCode": "ACT-TR",
+      "x": 85,
+      "y": 110,
+      "role": "detail"
+    },
+    {
+      "id": "RT-DY",
+      "label": "rt.dy",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 95,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-EXT-FT",
+      "label": "prog.ext.ft.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 165,
+      "y": 240,
+      "role": "detail"
+    },
+    {
+      "id": "AFL",
+      "label": "afl",
+      "fullLabel": "",
+      "glossaryCode": "AFL",
+      "x": 300,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "PHY-UP",
+      "label": "phy.u.p.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 410,
+      "y": 160,
+      "role": "detail"
+    },
+    {
+      "id": "EXT-DY",
+      "label": "ext.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 515,
+      "y": 40,
+      "role": "detail"
+    },
+    {
+      "id": "R-INTR",
+      "label": "(r)intr",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 585,
+      "y": 130,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-DE-B",
+      "label": "info.de.b.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 590,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "POL-CON",
+      "label": "pol.con.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 360,
+      "y": 255,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

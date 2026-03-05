@@ -1,0 +1,51 @@
+{
+  "diagram": "TAW-V1-1-World-Music-03",
+  "missing": [
+    {
+      "nodeId": "SCI-DYM",
+      "label": "(c)sci.dym",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "METH",
+      "label": "meth.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "SPT-DYM",
+      "label": "spt.dym",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AFI",
+      "label": "afi",
+      "expansion": "affinity insight",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "EXP-DYM",
+      "label": "exp.dym.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INTR",
+      "label": "intr",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "TRS",
+      "label": "trs",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INDIV-TD",
+      "label": "indiv.td.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INFO-AFB",
+      "label": "info.afb.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

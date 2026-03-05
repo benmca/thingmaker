@@ -1,0 +1,68 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-21",
+  "title": "Trans-African Music \u2013 Diagram 21",
+  "subject": {
+    "nodeId": "TH-CONT",
+    "arrowFrom": {
+      "x": 40,
+      "y": 80
+    }
+  },
+  "nodes": [
+    {
+      "id": "TH-CONT",
+      "label": "(c)th.cont.",
+      "fullLabel": "thrust continuance",
+      "glossaryCode": "TH-CONT",
+      "x": 55,
+      "y": 45,
+      "role": "detail"
+    },
+    {
+      "id": "PRI-INFO",
+      "label": "pri.info.",
+      "fullLabel": "principle information",
+      "glossaryCode": "PRI-INFO",
+      "x": 115,
+      "y": 230,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "(c)mt.info.",
+      "fullLabel": "multi-information",
+      "glossaryCode": "MT-INFO",
+      "x": 250,
+      "y": 140,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO-DB",
+      "label": "mt.info.db.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 275,
+      "y": 275,
+      "role": "detail"
+    },
+    {
+      "id": "RT-T",
+      "label": "rt.t.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 420,
+      "y": 110,
+      "role": "detail"
+    },
+    {
+      "id": "C-INFO",
+      "label": "c.info.",
+      "fullLabel": "composite information",
+      "glossaryCode": "C-INFO",
+      "x": 520,
+      "y": 155,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

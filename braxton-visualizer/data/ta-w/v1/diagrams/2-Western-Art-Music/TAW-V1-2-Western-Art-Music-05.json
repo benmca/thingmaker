@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-05",
+  "title": "Western Art Music \u2013 Diagram 05",
+  "subject": {
+    "nodeId": "RT-DYM",
+    "arrowFrom": {
+      "x": 100,
+      "y": 205
+    }
+  },
+  "nodes": [
+    {
+      "id": "RT-DYM",
+      "label": "(c)rt.dym.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 160,
+      "y": 230,
+      "role": "detail"
+    },
+    {
+      "id": "LG-EXT",
+      "label": "lg.ext.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 60,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "MT-IF-DB",
+      "label": "mt.if.db.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 205,
+      "y": 95,
+      "role": "detail"
+    },
+    {
+      "id": "EXT-DYM",
+      "label": "ext.dym.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 315,
+      "y": 95,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-INFO-B",
+      "label": "cult.info.b.",
+      "fullLabel": "",
+      "glossaryCode": "CULT-INFO-B",
+      "x": 420,
+      "y": 75,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-INTR",
+      "label": "info.intr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 455,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "T-P",
+      "label": "t.p.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 299.0,
+      "y": 227.0,
+      "role": "detail"
+    },
+    {
+      "id": "TR-DEF",
+      "label": "tr.def.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 250,
+      "y": 275,
+      "role": "detail"
+    },
+    {
+      "id": "MOT-DY",
+      "label": "mot.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 340,
+      "y": 300,
+      "role": "detail"
+    },
+    {
+      "id": "POL-DY",
+      "label": "pol.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 470,
+      "y": 280,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

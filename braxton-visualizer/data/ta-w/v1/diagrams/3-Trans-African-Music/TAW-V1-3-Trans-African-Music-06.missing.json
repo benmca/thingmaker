@@ -1,0 +1,33 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-06",
+  "missing": [
+    {
+      "nodeId": "INFO-DY",
+      "label": "info.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "OBS",
+      "label": "obs.",
+      "expansion": "observation (or reality of )",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "CRIF-D",
+      "label": "crif.d.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "S-ST",
+      "label": "s.st.",
+      "expansion": "source shift (progressionalism) manipulation",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "T-C-IMP",
+      "label": "t.c.imp.",
+      "expansion": "time continuum implications",
+      "issue": "missing_definition"
+    }
+  ]
+}

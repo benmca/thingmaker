@@ -1,0 +1,113 @@
+{
+  "id": "TAW-V1-4-The-Post-Cage-Continuum-03",
+  "title": "The Post-Cage Continuum \u2013 Diagram 03",
+  "subject": {
+    "nodeId": "IF-ST-DY",
+    "arrowFrom": {
+      "x": 320,
+      "y": 95
+    }
+  },
+  "nodes": [
+    {
+      "id": "MTH",
+      "label": "(r)mth.",
+      "fullLabel": "methodology",
+      "glossaryCode": "MTH",
+      "x": 135.0,
+      "y": 121.0,
+      "role": "detail"
+    },
+    {
+      "id": "IST-F",
+      "label": "ist.f.",
+      "fullLabel": "isolated focus",
+      "glossaryCode": "IST-F",
+      "x": 35,
+      "y": 165,
+      "role": "detail"
+    },
+    {
+      "id": "MT-DEVG",
+      "label": "mt.devg.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 205,
+      "y": 200,
+      "role": "detail"
+    },
+    {
+      "id": "IF-ST-DY",
+      "label": "(c)if.st.dy.",
+      "fullLabel": "infra-structure dynamics",
+      "glossaryCode": "IF-ST-DY",
+      "x": 300,
+      "y": 120,
+      "role": "detail"
+    },
+    {
+      "id": "C-CONT",
+      "label": "c.cont.",
+      "fullLabel": "composite continuance",
+      "glossaryCode": "C-CONT",
+      "x": 465,
+      "y": 65,
+      "role": "detail"
+    },
+    {
+      "id": "STF",
+      "label": "stf.",
+      "fullLabel": "source transfer",
+      "glossaryCode": "STF",
+      "x": 545,
+      "y": 95,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-DY",
+      "label": "info.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 440,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-AF-B",
+      "label": "cult.af.b.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 350,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "POST",
+      "label": "post.",
+      "fullLabel": "postulation",
+      "glossaryCode": "POST",
+      "x": 455,
+      "y": 205,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT-DY",
+      "label": "soc.rt.dy.",
+      "fullLabel": "social reality dynamics",
+      "glossaryCode": "SOC-RT-DY",
+      "x": 300,
+      "y": 250,
+      "role": "detail"
+    },
+    {
+      "id": "LANG-DY",
+      "label": "lang.dy.",
+      "fullLabel": "language dynamics",
+      "glossaryCode": "LANG-DY",
+      "x": 470,
+      "y": 290,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

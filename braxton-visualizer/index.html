@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tri-Axium Visualizer Prototype</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="title">Tri-Axium Visualizer Prototype</div>
+      <div class="controls">
+        <label>
+          <input id="toggle-labels" type="checkbox" checked />
+          Show relation labels
+        </label>
+        <label>
+          <input id="toggle-expand" type="checkbox" />
+          Expand abbreviations
+        </label>
+        <label>
+          <input id="toggle-layout" type="checkbox" />
+          Auto layout
+        </label>
+        <label>
+          <input id="toggle-overlay" type="checkbox" checked />
+          Overlay scan
+        </label>
+        <label>
+          <input id="toggle-autofit" type="checkbox" />
+          Overlay autofit
+        </label>
+        <label>
+          <input id="toggle-wide" type="checkbox" />
+          Wide nodes
+        </label>
+        <label>
+          <input id="toggle-ghost" type="checkbox" />
+          Outline only
+        </label>
+        <label>
+          <input id="toggle-edit" type="checkbox" />
+          Edit nodes
+        </label>
+        <button id="export-json" type="button">Export JSON</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="nav">
+        <div class="nav-title">Volume 1</div>
+        <div id="nav-tree" class="nav-tree">Loading…</div>
+      </aside>
+      <section class="canvas-wrap">
+        <div id="tooltip" class="tooltip" hidden></div>
+        <div id="more" class="more" hidden>
+          <div class="more-title">Definition</div>
+          <div id="more-body" class="more-body"></div>
+        </div>
+      </section>
+      <aside class="info">
+        <div class="info-title">Diagram</div>
+        <div id="diagram-title" class="info-body">Loading…</div>
+        <div class="info-title">Notes</div>
+        <div class="info-body">
+          Hover nodes for short expansions. Click a node to pin its full definition here.
+        </div>
+      </aside>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+    <script src="sketch.js"></script>
+  </body>
+</html>

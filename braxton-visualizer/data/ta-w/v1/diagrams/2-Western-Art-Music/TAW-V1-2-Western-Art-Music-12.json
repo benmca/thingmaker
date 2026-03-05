@@ -1,0 +1,131 @@
+{
+  "id": "TAW-V1-2-Western-Art-Music-12",
+  "title": "Western Art Music \u2013 Diagram 12",
+  "subject": {
+    "nodeId": "EXP-INFO-B",
+    "arrowFrom": {
+      "x": 25,
+      "y": 95
+    }
+  },
+  "nodes": [
+    {
+      "id": "EXP-INFO-B",
+      "label": "(c)exp.info. b.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 90,
+      "y": 110,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT",
+      "label": "soc.rt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 80,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "MTA-RT",
+      "label": "mta.rt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 200,
+      "y": 145,
+      "role": "detail"
+    },
+    {
+      "id": "SIGN",
+      "label": "sign.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 250,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "AF-DY",
+      "label": "af. dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 320,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO-DB",
+      "label": "mt.info. db.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 300,
+      "y": 215,
+      "role": "detail"
+    },
+    {
+      "id": "TF-SH",
+      "label": "(c)tf.sh.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 375,
+      "y": 90,
+      "role": "detail"
+    },
+    {
+      "id": "TC-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 510,
+      "y": 100,
+      "role": "detail"
+    },
+    {
+      "id": "VT-U-PT",
+      "label": "vt.u.pt.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 505,
+      "y": 185,
+      "role": "detail"
+    },
+    {
+      "id": "RE-ST",
+      "label": "re.st.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 430,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "PR-TR",
+      "label": "pr.tr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 360,
+      "y": 300,
+      "role": "detail"
+    },
+    {
+      "id": "RT-T",
+      "label": "rt.t.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 255,
+      "y": 300,
+      "role": "detail"
+    },
+    {
+      "id": "R-PART",
+      "label": "(r)part",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 200,
+      "y": 235,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

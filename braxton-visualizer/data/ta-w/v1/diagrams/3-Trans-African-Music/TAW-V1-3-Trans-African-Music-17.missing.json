@@ -1,0 +1,20 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-17",
+  "missing": [
+    {
+      "nodeId": "WO-EXT-PRIN",
+      "label": "wo.ext.prin.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "POL-DY",
+      "label": "pol.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "C-F-ACT",
+      "label": "c.f.act.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

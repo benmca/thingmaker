@@ -1,0 +1,32 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-15",
+  "missing": [
+    {
+      "nodeId": "POL-P",
+      "label": "pol.p.",
+      "expansion": "political policies (or execution of )",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "BIA",
+      "label": "bia.",
+      "expansion": "bi-aitional (or bi-aitionalism)",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "INFO-DE",
+      "label": "info.de.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "AF-DY",
+      "label": "af.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PROG-EXT-F",
+      "label": "prog.ext.f.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

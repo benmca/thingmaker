@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-Introduction-01",
+  "title": "Introduction Schematic: (R)VT.DY. \u2014 POST.",
+  "subject": {
+    "nodeId": "VT-DY",
+    "arrowFrom": {
+      "x": 45,
+      "y": 200
+    }
+  },
+  "nodes": [
+    {
+      "id": "VT-DY",
+      "label": "(r)vt.dy.",
+      "fullLabel": "vibrational dynamics",
+      "glossaryCode": "VT-DY",
+      "x": 70,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "PRI-VT-TD",
+      "label": "pri.vt.td.",
+      "fullLabel": "principle vibrational tendencies",
+      "glossaryCode": "PRI-VT-TD",
+      "x": 90,
+      "y": 145,
+      "role": "detail"
+    },
+    {
+      "id": "SG",
+      "label": "sg.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 230,
+      "y": 95,
+      "role": "detail"
+    },
+    {
+      "id": "POST",
+      "label": "post.",
+      "fullLabel": "postulation",
+      "glossaryCode": "POST",
+      "x": 443.0,
+      "y": 139.0,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "progressional continuance",
+      "glossaryCode": "PROG-CONT",
+      "x": 560,
+      "y": 95,
+      "role": "detail"
+    },
+    {
+      "id": "AFTD",
+      "label": "aftd.",
+      "fullLabel": "affinity tendencies",
+      "glossaryCode": "AFTD",
+      "x": 565,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "AFI",
+      "label": "afi.",
+      "fullLabel": "affinity insight",
+      "glossaryCode": "AFI",
+      "x": 565,
+      "y": 230,
+      "role": "detail"
+    },
+    {
+      "id": "LANG-DY",
+      "label": "lang.dy.",
+      "fullLabel": "language dynamics",
+      "glossaryCode": "LANG-DY",
+      "x": 315,
+      "y": 225,
+      "role": "detail"
+    },
+    {
+      "id": "RT-ALGN",
+      "label": "rt.algn.",
+      "fullLabel": "reality alignment",
+      "glossaryCode": "RT-ALGN",
+      "x": 230,
+      "y": 320,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-DY",
+      "label": "indiv.dy.",
+      "fullLabel": "individual dynamics",
+      "glossaryCode": "INDIV-DY",
+      "x": 420,
+      "y": 320,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

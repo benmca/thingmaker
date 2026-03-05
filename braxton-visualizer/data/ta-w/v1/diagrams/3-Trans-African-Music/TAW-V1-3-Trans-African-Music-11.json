@@ -1,0 +1,113 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-11",
+  "title": "Trans-African Music \u2013 Diagram 11",
+  "subject": {
+    "nodeId": "VT-DY",
+    "arrowFrom": {
+      "x": 40,
+      "y": 150
+    }
+  },
+  "nodes": [
+    {
+      "id": "PART",
+      "label": "part.",
+      "fullLabel": "participation",
+      "glossaryCode": "PART",
+      "x": 76.0,
+      "y": 106.0,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT-DY",
+      "label": "soc.rt.dy.",
+      "fullLabel": "social reality dynamics",
+      "glossaryCode": "SOC-RT-DY",
+      "x": 150,
+      "y": 50,
+      "role": "detail"
+    },
+    {
+      "id": "RT-INT-TR",
+      "label": "rt.int.tr.",
+      "fullLabel": "reality initiative traits",
+      "glossaryCode": "RT-INT-TR",
+      "x": 320,
+      "y": 45,
+      "role": "detail"
+    },
+    {
+      "id": "TRS",
+      "label": "trs.",
+      "fullLabel": "transition",
+      "glossaryCode": "TRS",
+      "x": 517.0,
+      "y": 99.5,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-F",
+      "label": "alt.f.",
+      "fullLabel": "alternative functionalism",
+      "glossaryCode": "ALT-F",
+      "x": 165,
+      "y": 130,
+      "role": "detail"
+    },
+    {
+      "id": "POL-P",
+      "label": "pol.p.",
+      "fullLabel": "political policies (or execution of )",
+      "glossaryCode": "POL-P",
+      "x": 249.0,
+      "y": 179.0,
+      "role": "detail"
+    },
+    {
+      "id": "MT-INFO",
+      "label": "mt.info.",
+      "fullLabel": "multi-information",
+      "glossaryCode": "MT-INFO",
+      "x": 365,
+      "y": 135,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-TP",
+      "label": "indiv.tp.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 515,
+      "y": 165,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-AF-BS",
+      "label": "cult.af.bs.",
+      "fullLabel": "culture affinity basis",
+      "glossaryCode": "CULT-AF-BS",
+      "x": 390,
+      "y": 210,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-INTR",
+      "label": "info.intr.",
+      "fullLabel": "information interpretation",
+      "glossaryCode": "INFO-INTR",
+      "x": 150,
+      "y": 255,
+      "role": "detail"
+    },
+    {
+      "id": "VT-DY",
+      "label": "(r)vt.dy.",
+      "fullLabel": "vibrational dynamics",
+      "glossaryCode": "VT-DY",
+      "x": 90,
+      "y": 190,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

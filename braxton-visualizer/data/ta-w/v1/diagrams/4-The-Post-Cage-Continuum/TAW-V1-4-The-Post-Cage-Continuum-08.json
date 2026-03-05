@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-4-The-Post-Cage-Continuum-08",
+  "title": "The Post-Cage Continuum \u2013 Diagram 08",
+  "subject": {
+    "nodeId": "ALT-C-PROG",
+    "arrowFrom": {
+      "x": 90,
+      "y": 120
+    }
+  },
+  "nodes": [
+    {
+      "id": "ALT-C-PROG",
+      "label": "(r)alt.c.prog.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 115,
+      "y": 85,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "time continuum implications",
+      "glossaryCode": "T-C-IMP",
+      "x": 305,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "MULT-INFO",
+      "label": "mult.info.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 420,
+      "y": 105,
+      "role": "detail"
+    },
+    {
+      "id": "MTA-IMP",
+      "label": "(r)mta.imp.",
+      "fullLabel": "meta-implications",
+      "glossaryCode": "MTA-IMP",
+      "x": 520,
+      "y": 120,
+      "role": "detail"
+    },
+    {
+      "id": "RT-IMP",
+      "label": "rt.imp.",
+      "fullLabel": "reality implications",
+      "glossaryCode": "RT-IMP",
+      "x": 540,
+      "y": 175,
+      "role": "detail"
+    },
+    {
+      "id": "COS-AGN",
+      "label": "cos.agn.",
+      "fullLabel": "cosmic assignment",
+      "glossaryCode": "COS-AGN",
+      "x": 450,
+      "y": 205,
+      "role": "detail"
+    },
+    {
+      "id": "TRS",
+      "label": "trs.",
+      "fullLabel": "transition",
+      "glossaryCode": "TRS",
+      "x": 360,
+      "y": 165,
+      "role": "detail"
+    },
+    {
+      "id": "INT",
+      "label": "(r)int.",
+      "fullLabel": "intention (the reality of )",
+      "glossaryCode": "INT",
+      "x": 280,
+      "y": 250,
+      "role": "detail"
+    },
+    {
+      "id": "EXP-DY",
+      "label": "exp.dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 385,
+      "y": 290,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT-DY",
+      "label": "soc.rt.dy.",
+      "fullLabel": "social reality dynamics",
+      "glossaryCode": "SOC-RT-DY",
+      "x": 110,
+      "y": 170,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

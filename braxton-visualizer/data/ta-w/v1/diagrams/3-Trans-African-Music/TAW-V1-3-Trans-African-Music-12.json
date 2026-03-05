@@ -1,0 +1,122 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-12",
+  "title": "Trans-African Music \u2013 Diagram 12",
+  "subject": {
+    "nodeId": "INDIV-TD",
+    "arrowFrom": {
+      "x": 410,
+      "y": 85
+    }
+  },
+  "nodes": [
+    {
+      "id": "EXT-F",
+      "label": "ext.f.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 265,
+      "y": 35,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-F",
+      "label": "(r)info.f.",
+      "fullLabel": "information focus",
+      "glossaryCode": "INFO-F",
+      "x": 60,
+      "y": 105,
+      "role": "detail"
+    },
+    {
+      "id": "VT-DY",
+      "label": "vt.dy.",
+      "fullLabel": "vibrational dynamics",
+      "glossaryCode": "VT-DY",
+      "x": 15,
+      "y": 160,
+      "role": "detail"
+    },
+    {
+      "id": "PART",
+      "label": "part.",
+      "fullLabel": "participation",
+      "glossaryCode": "PART",
+      "x": 35,
+      "y": 245,
+      "role": "detail"
+    },
+    {
+      "id": "ATTN",
+      "label": "attn.",
+      "fullLabel": "attraction",
+      "glossaryCode": "ATTN",
+      "x": 150,
+      "y": 160,
+      "role": "detail"
+    },
+    {
+      "id": "LK-IMP",
+      "label": "lk.imp.",
+      "fullLabel": "linkage implications",
+      "glossaryCode": "LK-IMP",
+      "x": 160,
+      "y": 195,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-ALGN",
+      "label": "info.algn.",
+      "fullLabel": "information alignment",
+      "glossaryCode": "INFO-ALGN",
+      "x": 270,
+      "y": 230,
+      "role": "detail"
+    },
+    {
+      "id": "P-FC",
+      "label": "p.fc.",
+      "fullLabel": "particular focus",
+      "glossaryCode": "P-FC",
+      "x": 275,
+      "y": 130,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-TD",
+      "label": "(r)indiv.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 420,
+      "y": 115,
+      "role": "detail"
+    },
+    {
+      "id": "AFL",
+      "label": "afl.",
+      "fullLabel": "affinity alignment",
+      "glossaryCode": "AFL",
+      "x": 385,
+      "y": 175,
+      "role": "detail"
+    },
+    {
+      "id": "LANG-DY",
+      "label": "lang.dy.",
+      "fullLabel": "language dynamics",
+      "glossaryCode": "LANG-DY",
+      "x": 470,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "SOC-RT-DY",
+      "label": "soc.rt.dy.",
+      "fullLabel": "social reality dynamics",
+      "glossaryCode": "SOC-RT-DY",
+      "x": 470,
+      "y": 240,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

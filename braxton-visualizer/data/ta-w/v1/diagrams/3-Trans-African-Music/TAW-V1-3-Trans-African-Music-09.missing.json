@@ -1,0 +1,32 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-09",
+  "missing": [
+    {
+      "nodeId": "PRI-INFO",
+      "label": "pri.info.",
+      "expansion": "principle information",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "EXP-DY",
+      "label": "exp.dy",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INDIV-TD",
+      "label": "(r)indiv.td",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "EXPN",
+      "label": "expn.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "T-C-IMP",
+      "label": "t.c.imp.",
+      "expansion": "time continuum implications",
+      "issue": "missing_definition"
+    }
+  ]
+}

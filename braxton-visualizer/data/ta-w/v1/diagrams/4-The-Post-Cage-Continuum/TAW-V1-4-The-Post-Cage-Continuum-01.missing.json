@@ -1,0 +1,21 @@
+{
+  "diagram": "TAW-V1-4-The-Post-Cage-Continuum-01",
+  "missing": [
+    {
+      "nodeId": "T-C-IMP",
+      "label": "t.c.imp.",
+      "expansion": "time continuum implications",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "PR-TR",
+      "label": "pr.tr.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INFO-DE-B",
+      "label": "info.de.b.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

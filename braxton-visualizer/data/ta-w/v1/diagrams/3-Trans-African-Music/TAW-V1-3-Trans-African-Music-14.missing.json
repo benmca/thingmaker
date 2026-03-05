@@ -1,0 +1,38 @@
+{
+  "diagram": "TAW-V1-3-Trans-African-Music-14",
+  "missing": [
+    {
+      "nodeId": "PROJ-DYM",
+      "label": "proj.dym.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "T-INT-TR",
+      "label": "(r)t.int.tr.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "RE-DIFF",
+      "label": "re.diff.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PRI-VT-TD",
+      "label": "pri.vt.td.",
+      "expansion": "principle vibrational tendencies",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "T-C-IMP",
+      "label": "t.c.imp.",
+      "expansion": "time continuum implications",
+      "issue": "missing_definition"
+    },
+    {
+      "nodeId": "S-ST",
+      "label": "s.st.",
+      "expansion": "source shift (progressionalism) manipulation",
+      "issue": "missing_definition"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-4-The-Post-Cage-Continuum-05",
+  "title": "The Post-Cage Continuum \u2013 Diagram 05",
+  "subject": {
+    "nodeId": "AF-TD",
+    "arrowFrom": {
+      "x": 110,
+      "y": 90
+    }
+  },
+  "nodes": [
+    {
+      "id": "AF-TD",
+      "label": "(c)af.td.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 120,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "ATTN",
+      "label": "(r)attn.",
+      "fullLabel": "attraction",
+      "glossaryCode": "ATTN",
+      "x": 55,
+      "y": 225,
+      "role": "detail"
+    },
+    {
+      "id": "PRI-INFO",
+      "label": "(n)pri.info.",
+      "fullLabel": "principle information",
+      "glossaryCode": "PRI-INFO",
+      "x": 310,
+      "y": 110,
+      "role": "detail"
+    },
+    {
+      "id": "TH-AF-ALGN",
+      "label": "th.af.algn.",
+      "fullLabel": "thrust affinity alignment",
+      "glossaryCode": "TH-AF-ALGN",
+      "x": 450,
+      "y": 110,
+      "role": "detail"
+    },
+    {
+      "id": "INDIV-DY-RT",
+      "label": "indiv.dy.rt.",
+      "fullLabel": "individual dynamic reality",
+      "glossaryCode": "INDIV-DY-RT",
+      "x": 360,
+      "y": 160,
+      "role": "detail"
+    },
+    {
+      "id": "COS-P",
+      "label": "cos.p.",
+      "fullLabel": "cosmic particulars",
+      "glossaryCode": "COS-P",
+      "x": 530,
+      "y": 150,
+      "role": "detail"
+    },
+    {
+      "id": "PART",
+      "label": "(r)part.",
+      "fullLabel": "participation",
+      "glossaryCode": "PART",
+      "x": 575,
+      "y": 195,
+      "role": "detail"
+    },
+    {
+      "id": "AFL",
+      "label": "afl.",
+      "fullLabel": "affinity alignment",
+      "glossaryCode": "AFL",
+      "x": 320,
+      "y": 205,
+      "role": "detail"
+    },
+    {
+      "id": "CUL-INFO-F",
+      "label": "cul.info.f.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 400,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "DYM-F",
+      "label": "dym.f.",
+      "fullLabel": "dynamic functionalism",
+      "glossaryCode": "DYM-F",
+      "x": 400,
+      "y": 290,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-4-The-Post-Cage-Continuum-01",
+  "title": "The Post-Cage Continuum \u2013 Diagram 01",
+  "subject": {
+    "nodeId": "ALT-C-PG",
+    "arrowFrom": {
+      "x": 70,
+      "y": 115
+    }
+  },
+  "nodes": [
+    {
+      "id": "ALT-C-PG",
+      "label": "(c)alt.c.pg.",
+      "fullLabel": "alternative composite progressionalism",
+      "glossaryCode": "ALT-C-PG",
+      "x": 80,
+      "y": 85,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-INFO-DY",
+      "label": "cult.info.dy.",
+      "fullLabel": "culture information dynamics",
+      "glossaryCode": "CULT-INFO-DY",
+      "x": 235,
+      "y": 40,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "time continuum implications",
+      "glossaryCode": "T-C-IMP",
+      "x": 125,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "PR-TR",
+      "label": "pr.tr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 210,
+      "y": 255,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-F",
+      "label": "alt.f.",
+      "fullLabel": "alternative functionalism",
+      "glossaryCode": "ALT-F",
+      "x": 299.0,
+      "y": 145.0,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-DE-B",
+      "label": "info.de.b.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 470,
+      "y": 90,
+      "role": "detail"
+    },
+    {
+      "id": "PROJ-DY",
+      "label": "proj.dy.",
+      "fullLabel": "projectional dynamics",
+      "glossaryCode": "PROJ-DY",
+      "x": 510,
+      "y": 155,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "progressional continuance",
+      "glossaryCode": "PROG-CONT",
+      "x": 400,
+      "y": 195,
+      "role": "detail"
+    },
+    {
+      "id": "RE-ST",
+      "label": "(p)re.st.",
+      "fullLabel": "restructuralism",
+      "glossaryCode": "RE-ST",
+      "x": 325,
+      "y": 220,
+      "role": "detail"
+    },
+    {
+      "id": "AFL-DY",
+      "label": "afl.dy.",
+      "fullLabel": "affinity dynamics",
+      "glossaryCode": "AFL-DY",
+      "x": 515,
+      "y": 255,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

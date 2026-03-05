@@ -1,0 +1,60 @@
+{
+  "diagram": "TAW-V1-1-World-Music-08",
+  "missing": [
+    {
+      "nodeId": "INFO-TRNS",
+      "label": "(c)info.trns",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "EXT-F",
+      "label": "ext.f.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "OP-DY",
+      "label": "op.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "SOC-RT",
+      "label": "soc.rt.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "TR",
+      "label": "tr.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PAFT",
+      "label": "paft.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "POL-DY",
+      "label": "pol.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "CI",
+      "label": "ci.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "SPI-AW",
+      "label": "spi.aw.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MTH",
+      "label": "mth.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "MT-DI",
+      "label": "mt.di.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

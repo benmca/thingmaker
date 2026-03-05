@@ -1,0 +1,21 @@
+{
+  "diagram": "TAW-V1-4-The-Post-Cage-Continuum-09",
+  "missing": [
+    {
+      "nodeId": "ALT-F-1",
+      "label": "alt.f.(1)",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "ALT-F-2",
+      "label": "alt.f.(2)",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "POL-P",
+      "label": "pol.p.",
+      "expansion": "political policies (or execution of )",
+      "issue": "missing_definition"
+    }
+  ]
+}

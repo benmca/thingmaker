@@ -1,0 +1,122 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-05",
+  "title": "Trans-African Music \u2013 Diagram 05",
+  "subject": {
+    "nodeId": "TF-SH",
+    "arrowFrom": {
+      "x": 270,
+      "y": 35
+    }
+  },
+  "nodes": [
+    {
+      "id": "TF-SH",
+      "label": "(c)tf.sh.",
+      "fullLabel": "transfer shift(s)",
+      "glossaryCode": "TF-SH",
+      "x": 250,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "RE-DIFF",
+      "label": "re.diff.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 65,
+      "y": 125,
+      "role": "detail"
+    },
+    {
+      "id": "TRS",
+      "label": "trs.",
+      "fullLabel": "transition",
+      "glossaryCode": "TRS",
+      "x": 90,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "POL-CON",
+      "label": "pol.con.",
+      "fullLabel": "political consciousness",
+      "glossaryCode": "POL-CON",
+      "x": 165,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "LK-IMP",
+      "label": "lk.imp.",
+      "fullLabel": "linkage implications",
+      "glossaryCode": "LK-IMP",
+      "x": 255,
+      "y": 235,
+      "role": "detail"
+    },
+    {
+      "id": "LANG",
+      "label": "lang.",
+      "fullLabel": "language",
+      "glossaryCode": "LANG",
+      "x": 365,
+      "y": 140,
+      "role": "detail"
+    },
+    {
+      "id": "DY",
+      "label": "dy.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 345,
+      "y": 160,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "progressional continuance",
+      "glossaryCode": "PROG-CONT",
+      "x": 455,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "MTA-RT-SIGN",
+      "label": "mta.rt.sign.",
+      "fullLabel": "meta-reality significance",
+      "glossaryCode": "MTA-RT-SIGN",
+      "x": 405,
+      "y": 245,
+      "role": "detail"
+    },
+    {
+      "id": "PER-PHY-U-FUND",
+      "label": "per.phy.u.fund",
+      "fullLabel": "perceived physical universe fundamental",
+      "glossaryCode": "PER-PHY-U-FUND",
+      "x": 380,
+      "y": 70,
+      "role": "detail"
+    },
+    {
+      "id": "RE-ST",
+      "label": "re.st.",
+      "fullLabel": "restructuralism",
+      "glossaryCode": "RE-ST",
+      "x": 520,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "LANG-DYM",
+      "label": "lang.dym.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 520,
+      "y": 95,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

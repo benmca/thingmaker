@@ -1,0 +1,20 @@
+{
+  "diagram": "TAW-V1-4-The-Post-Cage-Continuum-03",
+  "missing": [
+    {
+      "nodeId": "MT-DEVG",
+      "label": "mt.devg.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INFO-DY",
+      "label": "info.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "CULT-AF-B",
+      "label": "cult.af.b.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

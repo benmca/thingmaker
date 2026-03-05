@@ -1,0 +1,50 @@
+{
+  "diagram": "TAW-V1-1-World-Music-07",
+  "missing": [
+    {
+      "nodeId": "A-PROJ",
+      "label": "a.proj.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "TR",
+      "label": "tr.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "INFO-DS",
+      "label": "info.ds.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "T-C-IMP",
+      "label": "t.c.imp.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "POL-P",
+      "label": "pol.p.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "GRAD",
+      "label": "grad.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PHY-UP",
+      "label": "phy.u.p.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "PROJ-DY",
+      "label": "proj.dy.",
+      "issue": "missing_expansion"
+    },
+    {
+      "nodeId": "CULT-TF-S",
+      "label": "cult.tf.s.",
+      "issue": "missing_expansion"
+    }
+  ]
+}

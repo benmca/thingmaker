@@ -1,0 +1,95 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-16",
+  "title": "Trans-African Music \u2013 Diagram 16",
+  "subject": {
+    "nodeId": "ALT-F",
+    "arrowFrom": {
+      "x": 25,
+      "y": 115
+    }
+  },
+  "nodes": [
+    {
+      "id": "ALT-F",
+      "label": "(r)alt.f.",
+      "fullLabel": "alternative functionalism",
+      "glossaryCode": "ALT-F",
+      "x": 40,
+      "y": 85,
+      "role": "detail"
+    },
+    {
+      "id": "AFTF",
+      "label": "aftf.",
+      "fullLabel": "affinity transfer",
+      "glossaryCode": "AFTF",
+      "x": 200,
+      "y": 65,
+      "role": "detail"
+    },
+    {
+      "id": "CULT-INFO-DY",
+      "label": "cult.info.dy.",
+      "fullLabel": "culture information dynamics",
+      "glossaryCode": "CULT-INFO-DY",
+      "x": 240,
+      "y": 125,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "progressional continuance",
+      "glossaryCode": "PROG-CONT",
+      "x": 420,
+      "y": 125,
+      "role": "detail"
+    },
+    {
+      "id": "RT-ALIN",
+      "label": "rt.alin.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 530,
+      "y": 155,
+      "role": "detail"
+    },
+    {
+      "id": "ALT-C",
+      "label": "alt.c.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 455,
+      "y": 195,
+      "role": "detail"
+    },
+    {
+      "id": "RE-DIF",
+      "label": "(p)re.dif.",
+      "fullLabel": "redefinitions",
+      "glossaryCode": "RE-DIF",
+      "x": 420,
+      "y": 250,
+      "role": "detail"
+    },
+    {
+      "id": "VT-IMP",
+      "label": "vt.imp.",
+      "fullLabel": "vibrational implications",
+      "glossaryCode": "VT-IMP",
+      "x": 265,
+      "y": 285,
+      "role": "detail"
+    },
+    {
+      "id": "INFO-DE-B",
+      "label": "info.de.b.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 230,
+      "y": 245,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}

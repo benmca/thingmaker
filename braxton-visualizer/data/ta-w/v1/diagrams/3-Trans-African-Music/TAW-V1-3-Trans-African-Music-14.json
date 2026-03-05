@@ -1,0 +1,104 @@
+{
+  "id": "TAW-V1-3-Trans-African-Music-14",
+  "title": "Trans-African Music \u2013 Diagram 14",
+  "subject": {
+    "nodeId": "RT-INT-TR",
+    "arrowFrom": {
+      "x": 45,
+      "y": 140
+    }
+  },
+  "nodes": [
+    {
+      "id": "PROJ-DYM",
+      "label": "proj.dym.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 140,
+      "y": 50,
+      "role": "detail"
+    },
+    {
+      "id": "T-INT-TR",
+      "label": "(r)t.int.tr.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 60,
+      "y": 170,
+      "role": "detail"
+    },
+    {
+      "id": "RE-DIFF",
+      "label": "re.diff.",
+      "fullLabel": "",
+      "glossaryCode": "",
+      "x": 200,
+      "y": 155,
+      "role": "detail"
+    },
+    {
+      "id": "PRI-VT-TD",
+      "label": "pri.vt.td.",
+      "fullLabel": "principle vibrational tendencies",
+      "glossaryCode": "PRI-VT-TD",
+      "x": 170,
+      "y": 220,
+      "role": "detail"
+    },
+    {
+      "id": "PROG-CONT",
+      "label": "prog.cont.",
+      "fullLabel": "progressional continuance",
+      "glossaryCode": "PROG-CONT",
+      "x": 330,
+      "y": 55,
+      "role": "detail"
+    },
+    {
+      "id": "TR-INFO",
+      "label": "tr.info.",
+      "fullLabel": "trans-information",
+      "glossaryCode": "TR-INFO",
+      "x": 505,
+      "y": 90,
+      "role": "detail"
+    },
+    {
+      "id": "T-C-IMP",
+      "label": "t.c.imp.",
+      "fullLabel": "time continuum implications",
+      "glossaryCode": "T-C-IMP",
+      "x": 445,
+      "y": 160,
+      "role": "detail"
+    },
+    {
+      "id": "AFTD",
+      "label": "aftd.",
+      "fullLabel": "affinity tendencies",
+      "glossaryCode": "AFTD",
+      "x": 400,
+      "y": 190,
+      "role": "detail"
+    },
+    {
+      "id": "TRS",
+      "label": "trs.",
+      "fullLabel": "transition",
+      "glossaryCode": "TRS",
+      "x": 315,
+      "y": 230,
+      "role": "detail"
+    },
+    {
+      "id": "S-ST",
+      "label": "s.st.",
+      "fullLabel": "source shift (progressionalism) manipulation",
+      "glossaryCode": "S-ST",
+      "x": 410,
+      "y": 250,
+      "role": "detail"
+    }
+  ],
+  "edges": []
+}
